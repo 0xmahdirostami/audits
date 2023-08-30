@@ -58,3 +58,11 @@
 - Stakewise v3
 
 > - [New Users gain some rewards of old users](https://github.com/hats-finance/StakeWise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/issues/98)(but wontfix)
+
+## 5.Sherlock
+
+**5.1 H&M Finding:**
+
+- (2023-06-real-wagmi)[https://app.sherlock.xyz/audits/contests/88]
+
+> - Fixed fee in contracting with Uniswap

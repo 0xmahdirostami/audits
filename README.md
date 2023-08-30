@@ -57,4 +57,4 @@
 
 - Stakewise v3
 
-> - [Initial depositor can manipulate the price per share value](https://github.com/hats-finance/StakeWise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/issues/98)(but wontfix)
+> - [New Users gain some rewards of old users](https://github.com/hats-finance/StakeWise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/issues/98)(but wontfix)

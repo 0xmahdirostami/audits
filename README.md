@@ -18,7 +18,7 @@
 > - [Reentrancy in seizeLoan in Lender.sol](https://github.com/Cyfrin/2023-07-beedle/issues/137)
 
 - [pooltogether](https://code4rena.com/contests/2023-07-pooltogether)(Code4rena)
-> - Anyone can call mintYieldFee and gain _yieldFeeTotalSupply
+> - [Anyone can call mintYieldFee and gain _yieldFeeTotalSupply](https://github.com/0xmahdirostami/audits/blob/main/Code4rena/anyone%20can%20call%20mintYieldFee%20and%20gain%20_yieldFeeTotalSupply.md)
 
 - [2023-06-real-wagmi](https://app.sherlock.xyz/audits/contests/88)(Sherlock)
 > - [Fixed fee in contracting with Uniswap](https://github.com/0xmahdirostami/audits/blob/main/Sherlock/Fixed%20fee%20in%20contracting%20with%20Uniswap.md)

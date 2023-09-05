@@ -27,7 +27,7 @@
 > - [Initial depositor can manipulate the price per share value](https://github.com/0xmahdirostami/audits/blob/main/Immunefi/Initial%20depositor%20can%20manipulate%20the%20price%20per%20share%20value.md)(but closed as has already been reported)
 
 - [Asymmetry contest](https://code4rena.com/reports/2023-03-asymmetry)(Code4rena)
-> - Lack of slippage bound
+> - [Lack of slippage bound](https://github.com/0xmahdirostami/audits/blob/main/Code4rena/Lack%20of%20slippage%20bound.md)
 
 ## Gas&Low Finding
 

@@ -1,6 +1,6 @@
 # mahdiRostami's security audits and findings
 
-> Total H&M: 9 Highs
+> Total H&M: 9
 
 ## Profiles, Username
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>

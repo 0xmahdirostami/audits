@@ -1,6 +1,6 @@
 # mahdiRostami's security audits and findings
 
-> Total H&M: 9
+> Total H&M: 10
 
 ## Profiles, Username
 - Codehawks: mahdirostami[:link:](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
@@ -8,6 +8,10 @@
 - Sherlock:  mahdirostami<be>
 
 ## H&M Finding
+
+- CodeHawks Escrow Contract[:link:](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)(Codehawks)
+> - As some tokens balances can be changed over time, arbiter fee must be a percent of the price instead of the fixed value[:link:](https://github.com/Cyfrin/2023-07-escrow/issues/145)
+
 - Stakewise v3(Hats.finance)
 > - New Users gain some rewards of old users[:link:](https://github.com/hats-finance/StakeWise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/issues/98)(but wontfix)
 

@@ -1,6 +1,6 @@
 # mahdiRostami's security audits and findings
 
-> Total H&M: 10
+> Total H&M: 11
 
 ## Profiles, Username
 - Codehawks: mahdirostami[:link:](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
@@ -8,6 +8,9 @@
 - Sherlock:  mahdirostami<be>
 
 ## H&M Finding
+
+- Convergence-Finance(Hats.finance)
+> - Revert in the computeRoi function due to lncalculation[:link:](https://github.com/hats-finance/Convergence-Finance---IBO-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/issues/47)
 
 - CodeHawks Escrow Contract[:link:](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)(Codehawks)
 > - As some tokens balances can be changed over time, arbiter fee must be a percent of the price instead of the fixed value[:link:](https://github.com/Cyfrin/2023-07-escrow/issues/145)

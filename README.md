@@ -5,7 +5,7 @@
 ## Profiles, Username
 - Codehawks: mahdirostami[:link:](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: mahdirostami[:link:](https://code4rena.com/@mahdirostami)<br>
-- Sherlock:  mahdirostami<be>
+- Sherlock:  mahdirostami[:link:](https://audits.sherlock.xyz/watson/mahdiRostami)<br>
 - Hats.finance: wallet address 
 
 ## H&M Finding

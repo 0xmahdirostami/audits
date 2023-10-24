@@ -6,6 +6,7 @@
 - Codehawks: mahdirostami[:link:](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: mahdirostami[:link:](https://code4rena.com/@mahdirostami)<br>
 - Sherlock:  mahdirostami<be>
+- Hats.finance: wallet address 
 
 ## H&M Finding
 

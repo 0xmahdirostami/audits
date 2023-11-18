@@ -1,6 +1,6 @@
 # mahdiRostami's security audits and findings
 
-> Total H&M: 9
+> Total H&M: 10
 
 ## Profiles, Username
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
@@ -10,7 +10,10 @@
 
 ## H&M Finding
 
-- Convergence-Finance(Hats.finance)
+- 2023-09-venus-prime[:link:](https://code4rena.com/contests/2023-09-venus-prime#top)(Code4rena)
+> - When minting an "Irrevocable" token, the function fails to delete the stakedAt record for users. This oversight allows users to bypass the staking time requirement after their tokens are burned.[:link:](https://github.com/code-423n4/2023-09-venus-findings/issues/102)
+
+- Convergence-Finance[:link:](https://app.hats.finance/audit-competitions/convergence-finance-ibo-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)(Hats.finance)
 > - Revert in the computeRoi function due to lncalculation[:link:](https://github.com/hats-finance/Convergence-Finance---IBO-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/issues/47)
 
 - 2023-07-escrow[:link:](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)(Codehawks)
@@ -32,6 +35,10 @@
 > - Lack of slippage bound[:link:](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/24)
 
 ## Gas&Low Finding
+
+- DittoETH[:link:](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)(Codehawks)
+> - there's a missing unstaking strategy for "RETH." This absence of a clear plan for token burning can impact the overall functionality and management of the token.
+[:link:](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/405)
 
 - 2023-07-beedle[:link:](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)(Codehawks)
 > - Use better name in sellProfits function[:link:](https://github.com/Cyfrin/2023-07-beedle/issues/128)

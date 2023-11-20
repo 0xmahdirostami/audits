@@ -40,16 +40,9 @@
 - 2023-03-asymmetry[:link:](https://code4rena.com/reports/2023-03-asymmetry)(Code4rena)
 > - Lack of slippage bound[:link:](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/24)
 
-## Some of the Low Finding
+## Some of the Low Findings
 
 - DittoETH[:link:](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)(Codehawks)
 > - there's a missing unstaking strategy for "RETH." This absence of a clear plan for token burning can impact the overall functionality and management of the token.
 [:link:](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/405)
-
-
-- 2023-03-asymmetry[:link:](https://code4rena.com/reports/2023-03-asymmetry)(Code4rena)
-
-- 2023-07-basin[:link:](https://code4rena.com/contests/2023-07-basin)(Code4rena)
-
-
 

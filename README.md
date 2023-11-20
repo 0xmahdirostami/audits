@@ -1,16 +1,11 @@
 # mahdiRostami's security audits and findings
-
-> Total H&M: 12
-
-## Profiles, Username
-
+## PROFILES
 - Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
 - Sherlock:  [mahdirostami](https://audits.sherlock.xyz/watson/mahdiRostami)<br>
-
-
-## H&M Finding
+## H&M Findings
+> Total H&M: 12
 
 - 2023-11-kelp-dao-rseth [:link:](https://code4rena.com/contests/2023-11-kelp-dao-rseth#top)(Code4rena)
 > - Incorrect Share Calculation in depositAsset Function[:link:](https://github.com/code-423n4/2023-11-kelp-findings/issues/98)

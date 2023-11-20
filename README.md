@@ -3,10 +3,12 @@
 > Total H&M: 12
 
 ## Profiles, Username
+
+- Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
 - Sherlock:  [mahdirostami](https://audits.sherlock.xyz/watson/mahdiRostami)<br>
-- Hats.finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)
+
 
 ## H&M Finding
 
@@ -38,18 +40,12 @@
 - 2023-03-asymmetry[:link:](https://code4rena.com/reports/2023-03-asymmetry)(Code4rena)
 > - Lack of slippage bound[:link:](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/24)
 
-## Gas&Low Finding
+## Some of the Low Finding
 
 - DittoETH[:link:](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)(Codehawks)
 > - there's a missing unstaking strategy for "RETH." This absence of a clear plan for token burning can impact the overall functionality and management of the token.
 [:link:](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/405)
 
-- 2023-07-beedle[:link:](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)(Codehawks)
-> - Use better name in sellProfits function[:link:](https://github.com/Cyfrin/2023-07-beedle/issues/128)
-
-- 2023-07-foundry-defi-stablecoin[:link:](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)(Codehawks)
-> - Non-library/interface files should use fixed compiler versions, not floating ones[:link:](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/117)
-> - <x> += <y> costs more gas than <x> = <x> + <y> for state variables[:link:](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/119)
 
 - 2023-03-asymmetry[:link:](https://code4rena.com/reports/2023-03-asymmetry)(Code4rena)
 

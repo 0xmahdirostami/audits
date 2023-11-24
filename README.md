@@ -1,6 +1,8 @@
 # mahdiRostami's security audits and findings
-### I have availability for smart contract security audits. Reach out to me on [Twitter](https://twitter.com/0xmahdirostami).
-## PROFILES
+### I have availability for smart contract security audits and testing. Reach out to me on [Twitter](https://twitter.com/0xmahdirostami).
+# [Competition Profile](head1)
+# [Private audit and testing Profile](head2)
+## <a name="head1"></a>Competition
 - Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
@@ -48,4 +50,8 @@
 - DittoETH[:link:](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)(Codehawks)
 > - there's a missing unstaking strategy for "RETH." This absence of a clear plan for token burning can impact the overall functionality and management of the token.
 [:link:](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/405)
+
+## <a name="head2"></a>Private audit and testing
+- [Possum lab](https://www.possumlabs.io/) - Testing and last review before deployment after audit competition in Hats.Finance 
+
 

@@ -1,7 +1,7 @@
 # mahdiRostami's security audits and findings
 ### I have availability for smart contract security audits and testing. Reach out to me on [Twitter](https://twitter.com/0xmahdirostami).
-# [Competition Profile](head1)
-# [Private audit and testing Profile](head2)
+- [Competition Profile](#head1)
+- [Private audit and testing Profile](#head2)
 ## <a name="head1"></a>Competition
 - Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>

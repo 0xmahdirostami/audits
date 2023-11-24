@@ -8,7 +8,7 @@
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
 - Sherlock:  [mahdirostami](https://audits.sherlock.xyz/watson/mahdiRostami)<br>
 ## H&M Findings
-> Total H&M: 14
+> Total H&M in competitions: 14
 
 - 2023-11-kelp-dao-rseth [:link:](https://code4rena.com/contests/2023-11-kelp-dao-rseth#top)(Code4rena)
 > - High-Incorrect Share Calculation in depositAsset Function[:link:](https://github.com/code-423n4/2023-11-kelp-findings/issues/98)

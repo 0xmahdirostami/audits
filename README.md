@@ -1,8 +1,11 @@
 # mahdiRostami's security audits and findings
 #### I have availability for smart contract security audits and testing. Reach out to me on [Twitter](https://twitter.com/0xmahdirostami).
-- [Competition Profile](#head1)
-- [Private audit and testing Profile](#head2)
-# <a name="head1"></a>Competition
+- [Private audit and testing Profile](#Private)
+- [Competition Profile](#Competition)
+
+# <a name="Private"></a>Private audit and testing
+- [Possum lab](https://www.possumlabs.io/) - Testing and last review before deployment after audit competition in Hats.Finance 
+# <a name="Competition"></a>Competition
 - Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
@@ -41,17 +44,3 @@
 
 - 2023-03-asymmetry[:link:](https://code4rena.com/reports/2023-03-asymmetry)(Code4rena)
 > - High-Lack of slippage bound[:link:](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/24)
-
-## Some of the Low Findings
-
-- Possum Labs (Portals)[:link:](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3)(Hats.finance)
-> - Inadequate Consideration of Decimal Variations in Principal Tokens[:link:](https://github.com/hats-finance/Possum-Labs--Portals--0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/issues/48)
-
-- DittoETH[:link:](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)(Codehawks)
-> - there's a missing unstaking strategy for "RETH." This absence of a clear plan for token burning can impact the overall functionality and management of the token.
-[:link:](https://www.codehawks.com/submissions/clm871gl00001mp081mzjdlwc/405)
-
-# <a name="head2"></a>Private audit and testing
-- [Possum lab](https://www.possumlabs.io/) - Testing and last review before deployment after audit competition in Hats.Finance 
-
-

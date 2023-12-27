@@ -1,28 +1,34 @@
-- Prepared by: [mahdi rostami](https://twitter.com/0xmahdirostami)
-- Title: TimeRift Audit Report
-- Date: December, 2023
+---
+title: TimeRift Audit Report
+author: Mahdi Rostami
+date: December 16, 2023
+
+
+Prepared by: [mahdi rostami](https://twitter.com/0xmahdirostami)
 
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [TimeRift Security Review](#timerift-security-review)
-- [Disclaimer](#disclaimer)
-- [Risk classification](#risk-classification)
-  - [Impact](#impact)
-  - [Likelihood](#likelihood)
-  - [Actions required by severity level](#actions-required-by-severity-level)
-- [Executive summary](#executive-summary)
-  - [Overview](#overview)
-  - [Issues found](#issues-found)
-  - [Scope](#scope)
+  - [Disclaimer](#disclaimer)
+  - [Risk classification](#risk-classification)
+    - [Impact](#impact)
+    - [Likelihood](#likelihood)
+    - [Actions required by severity level](#actions-required-by-severity-level)
+  - [Executive summary](#executive-summary)
+    - [Overview](#overview)
+    - [Scope](#scope)
+    - [Compatibilities](#compatibilities)
+    - [Known Issues](#known-issues)
+    - [Issues found](#issues-found)
 - [Findings](#findings)
-  - [Medium Severtiy](#Medium-severity)
-    - [\[M-1\] user doesn't get compound rewards.)](#user-doesn't-get-compound-rewards.)
-  - [Informational Severtiy](#Informational-severity)
-    - [\[I-1\] Lack of Check for Whitelisted Addresses.)](#Lack-of-Check-for-Whitelisted-Addresses.)
-    - [\[I-2\] Lack of Zero Address Check for Whitelisted Addresses.)](#Lack-of-Check-for-Whitelisted-Addresses.)
-    - [\[I-3\] Improve Readability and Optimization in DistributeEnergyBolts.)](#Lack-of-Check-for-Whitelisted-Addresses.)
-    - [\[I-4\] Add a White List Address in Constructor)](#Add-a-White-List-Address-in-Constructor)	
+  - [LOW Severity](#low-severity)
+    - [\[L-1\] user doesn't get compound rewards.](#l-1-user-doesnt-get-compound-rewards)
+  - [Informational Severity](#informational-severity)
+    - [\[I-1\] Lack of Check for Whitelisted Addresses.](#i-1-lack-of-check-for-whitelisted-addresses)
+    - [\[I-2\] Lack of Zero Address Check for Whitelisted Addresses.](#i-2-lack-of-zero-address-check-for-whitelisted-addresses)
+    - [\[I-3\] Improve Readability and Optimization in DistributeEnergyBolts](#i-3-improve-readability-and-optimization-in-distributeenergybolts)
+    - [\[I-4\] Add a White List Address in Constructor](#i-4-add-a-white-list-address-in-constructor)
 
 # TimeRift Security Review
 
@@ -39,34 +45,33 @@ as possible. Audits can show the presence of vulnerabilities **but not their abs
 
 ## Risk classification
 
-|      Severity      | Impact: High | Impact: Medium |  Impact: Low  |
-|:------------------:|:------------:|:--------------:|:-------------:|
-|  Likelihood: High  |   Critical   |      High      |     Medium    |
-| Likelihood: Medium |     High     |     Medium     |      Low      |
-|   Likelihood: Low  |    Medium    |       Low      | Low |
+|      Severity      | Impact: High | Impact: Medium | Impact: Low |
+| :----------------: | :----------: | :------------: | :---------: |
+|  Likelihood: High  |   Critical   |      High      |   Medium    |
+| Likelihood: Medium |     High     |     Medium     |     Low     |
+|  Likelihood: Low   |    Medium    |      Low       |     Low     |
 
 ### Impact
 
-- **High** 
-	- Funds are directly or nearly directly at risk.
-	- There's a severe disruption of protocol functionality or availability.
-	
-- **Medium** 
-	- Funds are indirectly at risk.
-	- There's some level of disruption to the protocol's functionality or availability.
-- **Low** 
-	- Funds are not at risk.
-	- However, a function might be incorrect, state might not be handled appropriately, etc.
- 	- can lead to any kind of unexpected behaviour with some of the protocol's functionalities that's not so critical.
+- **High**
+  - Funds are directly or nearly directly at risk.
+  - There's a severe disruption of protocol functionality or availability.
+- **Medium**
+  - Funds are indirectly at risk.
+  - There's some level of disruption to the protocol's functionality or availability.
+- **Low**
+  - Funds are not at risk.
+  - However, a function might be incorrect, state might not be handled appropriately, etc.
+  - can lead to any kind of unexpected behaviour with some of the protocol's functionalities that's not so critical.
 
 ### Likelihood
 
-- **High** 
-	- attack path is possible with reasonable assumptions that mimic on-chain conditions and the cost of the attack is relatively low to the amount of funds that can be stolen or lost.
-- **Medium** 
-	- only conditionally incentivized attack vector, but still relatively likely.
-- **Low** 
-	- has too many or too unlikely assumptions or requires a huge stake by the attacker with little or no incentive.
+- **High**
+  - attack path is possible with reasonable assumptions that mimic on-chain conditions and the cost of the attack is relatively low to the amount of funds that can be stolen or lost.
+- **Medium**
+  - only conditionally incentivized attack vector, but still relatively likely.
+- **Low**
+  - has too many or too unlikely assumptions or requires a huge stake by the attacker with little or no incentive.
 
 ### Actions required by severity level
 
@@ -79,19 +84,19 @@ as possible. Audits can show the presence of vulnerabilities **but not their abs
 
 ### Overview
 
-| Project Name |    TimeRift   |
-|:------------:|:-------------:|
-|  Repository  |     [Link](https://github.com/PossumLabsCrypto/TimeRift/)    |
-|  Commit Hash |    [c18c975](https://github.com/PossumLabsCrypto/TimeRift/tree/c18c975291d14d5f62bab94308f4b0a20d560565)    |
-|     Docs     |     [Link](https://medium.com/@Possum_Labs/time-rift-a-deep-dive-28aa2dbc5a64)    |
-|    Methods   | Manual Review |
+| Project Name |                                               TimeRift                                                |
+| :----------: | :---------------------------------------------------------------------------------------------------: |
+|  Repository  |                         [Link](https://github.com/PossumLabsCrypto/TimeRift/)                         |
+| Commit Hash  | [c18c975](https://github.com/PossumLabsCrypto/TimeRift/tree/c18c975291d14d5f62bab94308f4b0a20d560565) |
+|     Docs     |              [Link](https://medium.com/@Possum_Labs/time-rift-a-deep-dive-28aa2dbc5a64)               |
+|   Methods    |                                             Manual Review                                             |
 
 ### Scope
 
-|      File     | nSLOC |
-|:-------------:|:----:|
-| Contracts (1) |  268 |
-| /TimeRift.sol |  268 |
+|     File      | nSLOC |
+| :-----------: | :---: |
+| Contracts (1) |  268  |
+| /TimeRift.sol |  268  |
 
 ### Compatibilities
 
@@ -104,20 +109,19 @@ None
 
 ### Issues found
 
-|    Severity   | Count |
-|:-------------:|:-----:|
-|    Critical   |   0   |
-|      High     |   0   |
-|     Medium    |   1   |
-|      Low      |   0   |
+|   Severity    | Count |
+| :-----------: | :---: |
+|   Critical    |   0   |
+|     High      |   0   |
+|    Medium     |   0   |
+|      Low      |   1   |
 | Informational |   4   |
-
 
 # Findings
 
-## Medium Severtiy
+## LOW Severity
 
-### [M-1] user doesn't get compound rewards.
+### [L-1] user doesn't get compound rewards.
 
 **Description:** The TimeRift contract aims to reward users who frequently distribute Energy Bolts. However, the current implementation doesn't consider compounding rewards for users who frequently distribute PSM tokens. The issue lies in the usage of `userStake.stakedTokens` in the `TimeRift::_collectEnergyBolts`.
 
@@ -205,6 +209,7 @@ function test_compounding() external {
         console2.log("bob exchangeBalance after first distribution", user_exchangeBalance_bob);
     }
 ```
+
 </details>
 
 Logs before modifying code:

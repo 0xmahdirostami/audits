@@ -115,7 +115,7 @@ None
 
 # Findings
 
-## LOW Severity
+## Low Severity
 
 ### [L-1] user doesn't get compound rewards.
 

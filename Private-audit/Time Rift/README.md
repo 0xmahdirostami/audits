@@ -1,10 +1,6 @@
----
-title: TimeRift Audit Report
-author: Mahdi Rostami
-date: December 16, 2023
-
-
-Prepared by: [mahdi rostami](https://twitter.com/0xmahdirostami)
+- Prepared by: [mahdi rostami](https://twitter.com/0xmahdirostami)
+- Title: TimeRift Audit Report
+- Date: December, 2023
 
 # Table of Contents
 

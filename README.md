@@ -1,5 +1,8 @@
 # mahdiRostami's security audits and findings
 #### I have availability for smart contract security audits (pay-per-vulnerability) and testing. Reach out to me on [Twitter](https://twitter.com/0xmahdirostami).
+> - Solidity
+> - Rust
+> - Vyper
 - [Private audit and testing Profile](#Private)
 - [Competition Profile](#Competition)
 

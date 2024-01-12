@@ -17,7 +17,12 @@
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
 - Sherlock:  [mahdirostami](https://audits.sherlock.xyz/watson/mahdiRostami)<br>
 ## H&M Findings
-> Total H&M in competitions: 14
+> Total H&M in competitions: 17
+
+- 2023-12-revolutionprotocol [:link:](https://code4rena.com/audits/2023-12-revolution-protocol#top)(Code4rena)
+> - Medium-Potential Exploitable Behavior in AuctionHouse::_settleAuction[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/546)
+> - Medium-Potential Dos in AuctionHouse::_settleAuction, due to Not checking RewardSplits::minPurchaseAmount,RewardSplits::maxPurchaseAmount[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/558)
+> - Medium-Unfair Quorum Votes Calculation for Pieces at Creation Time[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/43)
 
 - 2023-11-kelp-dao-rseth [:link:](https://code4rena.com/contests/2023-11-kelp-dao-rseth#top)(Code4rena)
 > - High-Incorrect Share Calculation in depositAsset Function[:link:](https://github.com/code-423n4/2023-11-kelp-findings/issues/98)

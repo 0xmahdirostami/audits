@@ -6,11 +6,11 @@
 - [Private audit and testing Profile](#Private)
 - [Competition Profile](#Competition)
 
-# <a name="Private"></a>Private audit and testing
+# <a name="Private"></a>Private audit, Testing, Development
 
  - (2023-December)[ Possum lab](https://www.possumlabs.io/), [TIME RIFT](https://github.com/PossumLabsCrypto/TimeRift/tree/master) - Private audit pay per vulnerability - [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift)
 - (2023-November)[ Possum lab](https://www.possumlabs.io/), [HLP-Portal](https://portals.possumlabs.io/) - Testing and last review before deployment after audit competition in Hats.Finance
-- 
+
 # <a name="Competition"></a>Competition
 - Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>

@@ -1,12 +1,15 @@
 # mahdiRostami's security audits and findings
 #### I have availability for smart contract security audits (pay-per-vulnerability) and testing. Reach out to me on [Twitter](https://twitter.com/0xmahdirostami).
+
 > - Solidity
-> - Rust
+> - Rust (ink, Cairo)
 > - Vyper
+
 - [Private audit and testing Profile](#Private)
 - [Competition Profile](#Competition)
+  - [Top public audits](#Top)
 
-# <a name="Private"></a>Private audit, Testing, Development
+# <a name="Private"></a>Private audit, Testing, Development Profile
 
 | Contest  | Date  | Language  | Github    |  Site    | Company  | Action |
 | -------- | ----- | --------- | -------- | -------- | -------- | ------ |
@@ -15,12 +18,20 @@
 | HLP Portal | 2023-November | Solidity |  [Link](https://github.com/PossumLabsCrypto/Portals/tree/main/src/V1) | [link](https://portals.possumlabs.io/) | [ Possum lab](https://www.possumlabs.io/)  | Write Tests [link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)  | 
 
 
-# <a name="Competition"></a>Competition
+# <a name="Competition"></a>Competition Profile
 
 - Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
 - Sherlock:  [mahdirostami](https://audits.sherlock.xyz/watson/mahdiRostami)<br>
+
+## <a name="Top"></a>Top public audits
+
+
+| Audit Contest   | Date  | Language   |      Rank      |  Results   |  Host | 
+|----------|:-------------:|------:| 
+| Possum      |  2023-November  | Solidity | 1st  | [link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard) | Hats.Finance |
+| Convergence |  2023-September | Solidity | 2st  | [link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard) | Hats.Finance |
 
 ## H&M Findings
 

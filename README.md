@@ -1,5 +1,5 @@
 # mahdiRostami's security audits and findings
-### I have availability for smart contract Security Audits PPV (pay-per-vulnerability), and Testing. 
+### I have availability for Priave Smart Contract Security Audits (pay-per-vulnerability), and Testing. 
 ##### Reach out to me on [Twitter](https://twitter.com/0xmahdirostami) OR Rostamimahdi1997@gmail.com.
 
 ***

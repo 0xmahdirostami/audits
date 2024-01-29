@@ -43,21 +43,21 @@
 > - Medium-Potential Dos in AuctionHouse::_settleAuction, due to Not checking RewardSplits::minPurchaseAmount,RewardSplits::maxPurchaseAmount[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/558)
 > - Medium-Unfair Quorum Votes Calculation for Pieces at Creation Time[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/43)
 
-- 2023-10-zksync-findings [:link:](https://code4rena.com/audits/2023-10-zksync-era#top)(Code4rena)
-> - Medium-Deposit Limit Check Issue with Bridges in _verifyDepositLimit Function[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/546)
-
 - 2023-11-kelp-dao-rseth [:link:](https://code4rena.com/contests/2023-11-kelp-dao-rseth#top)(Code4rena)
 > - High-Incorrect Share Calculation in depositAsset Function[:link:](https://github.com/code-423n4/2023-11-kelp-findings/issues/98)
 > - High-Risk of Share Manipulation in LRTDepositPool Contract[:link:](https://github.com/code-423n4/2023-11-kelp-findings/issues/99)
 
-- Possum Labs (Portals)[:link:](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3)(Hats.finance)
+- 2023-11-Possum Labs (Portals)[:link:](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3)(Hats.finance)
 > - Medium-Portal Ignores Principal Token and PSM Price Ratio[:link:](https://github.com/hats-finance/Possum-Labs--Portals--0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/issues/49)
 > - Medium-Lack of Function for Receiving ETH[:link:](https://github.com/hats-finance/Possum-Labs--Portals--0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/issues/69)
+
+- 2023-10-zksync-findings [:link:](https://code4rena.com/audits/2023-10-zksync-era#top)(Code4rena)
+> - Medium-Deposit Limit Check Issue with Bridges in _verifyDepositLimit Function[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/546)
 
 - 2023-09-venus-prime[:link:](https://code4rena.com/contests/2023-09-venus-prime#top)(Code4rena)
 > - High-When minting an "Irrevocable" token, the function fails to delete the stakedAt record for users. This oversight allows users to bypass the staking time requirement after their tokens are burned.[:link:](https://github.com/code-423n4/2023-09-venus-findings/issues/102)
 
-- Convergence-Finance[:link:](https://app.hats.finance/audit-competitions/convergence-finance-ibo-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)(Hats.finance)
+- 2023-09-Convergence-Finance[:link:](https://app.hats.finance/audit-competitions/convergence-finance-ibo-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)(Hats.finance)
 > - Medium-Revert in the computeRoi function due to ln calculation[:link:](https://github.com/hats-finance/Convergence-Finance---IBO-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/issues/47)
 
 - 2023-07-escrow[:link:](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)(Codehawks)

@@ -8,11 +8,6 @@ Supported Languages:
 > - Rust (ink, Cairo)
 > - Vyper
 
-- [Private audit and testing Profile](#Private)
-- [Top public audits](#Top)
-- [Competition Profile](#Competition)
-
-
 # <a name="Private"></a>Private audit, Testing, Development Profile
 
 | Name       | Date          | Language | Site                                    | Company                                   | Action                  | GitHub Link                                                                                     |

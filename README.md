@@ -8,21 +8,30 @@
 
 # <a name="Private"></a>Private audit, Testing, Development
 
- - (2023-December)[ Possum lab](https://www.possumlabs.io/), [TIME RIFT](https://github.com/PossumLabsCrypto/TimeRift/tree/master) - Private audit pay per vulnerability - [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift)
-- (2023-November)[ Possum lab](https://www.possumlabs.io/), [HLP-Portal](https://portals.possumlabs.io/) - Testing and last review before deployment after audit competition in Hats.Finance
+| Contest  | Date  | Language  | Github    |  Site    | Company  | Action |
+| -------- | ----- | --------- | -------- | -------- | -------- | ------ |
+| TIME RIFT | 2023-December | Solidity | [Link](https://github.com/PossumLabsCrypto/TimeRift/tree/master)      | [link](https://timerift.possumlabs.io/) | [ Possum lab](https://www.possumlabs.io/) | Private Audit [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf)     | 
+| HLP-Portal | 2023-November | Solidity |  [Link](https://github.com/PossumLabsCrypto/Portals/tree/main/src/V1) | [link](https://portals.possumlabs.io/) | [ Possum lab](https://www.possumlabs.io/)  | write tests [link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)  | 
+
 
 # <a name="Competition"></a>Competition
+
 - Hats.Finance: [mahdirostami](https://app.hats.finance/profile/mahdirostami)<br>
 - Codehawks: [mahdirostami](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043)<br>
 - Code4rena: [mahdirostami](https://code4rena.com/@mahdirostami)<br>
 - Sherlock:  [mahdirostami](https://audits.sherlock.xyz/watson/mahdiRostami)<br>
+
 ## H&M Findings
-> Total H&M in competitions: 17
+
+> Total H&M in competitions: 18
 
 - 2023-12-revolutionprotocol [:link:](https://code4rena.com/audits/2023-12-revolution-protocol#top)(Code4rena)
 > - Medium-Potential Exploitable Behavior in AuctionHouse::_settleAuction[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/546)
 > - Medium-Potential Dos in AuctionHouse::_settleAuction, due to Not checking RewardSplits::minPurchaseAmount,RewardSplits::maxPurchaseAmount[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/558)
 > - Medium-Unfair Quorum Votes Calculation for Pieces at Creation Time[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/43)
+
+- 2023-10-zksync-findings [:link:](https://code4rena.com/audits/2023-10-zksync-era#top)(Code4rena)
+> - Medium-Deposit Limit Check Issue with Bridges in _verifyDepositLimit Function[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/546)
 
 - 2023-11-kelp-dao-rseth [:link:](https://code4rena.com/contests/2023-11-kelp-dao-rseth#top)(Code4rena)
 > - High-Incorrect Share Calculation in depositAsset Function[:link:](https://github.com/code-423n4/2023-11-kelp-findings/issues/98)

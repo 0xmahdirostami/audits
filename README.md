@@ -15,7 +15,7 @@ Supported Languages:
 
 # <a name="Private"></a>Private audit, Testing, Development Profile
 
-| Name       | Date          | Language | Site                                    | Company                                   | Action                  | Link                                                                                            |
+| Name       | Date          | Language | Site                                    | Company                                   | Action                  | GitHub Link                                                                                     |
 | ---------- | ------------- | -------- | --------------------------------------- | ----------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
 | HLP Adapter| 2024-January  | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Development and Testing | [Link](https://github.com/0xmahdirostami/Adapters)                                              |
 | Time Rift  | 2023-December | Solidity | [Link](https://timerift.possumlabs.io/) | [Possum lab](https://www.possumlabs.io/)  | Private Audit           | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf) | 

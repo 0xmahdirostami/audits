@@ -10,8 +10,9 @@
 
 | Contest  | Date  | Language  | Github    |  Site    | Company  | Action |
 | -------- | ----- | --------- | -------- | -------- | -------- | ------ |
+| HLP Adapter | 2024-January | Solidity | comming | comming | [ Possum lab](https://www.possumlabs.io/) | Development [Link](https://github.com/0xmahdirostami/Adapters) |
 | TIME RIFT | 2023-December | Solidity | [Link](https://github.com/PossumLabsCrypto/TimeRift/tree/master)      | [link](https://timerift.possumlabs.io/) | [ Possum lab](https://www.possumlabs.io/) | Private Audit [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf)     | 
-| HLP-Portal | 2023-November | Solidity |  [Link](https://github.com/PossumLabsCrypto/Portals/tree/main/src/V1) | [link](https://portals.possumlabs.io/) | [ Possum lab](https://www.possumlabs.io/)  | write tests [link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)  | 
+| HLP Portal | 2023-November | Solidity |  [Link](https://github.com/PossumLabsCrypto/Portals/tree/main/src/V1) | [link](https://portals.possumlabs.io/) | [ Possum lab](https://www.possumlabs.io/)  | Write Tests [link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)  | 
 
 
 # <a name="Competition"></a>Competition

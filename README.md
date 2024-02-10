@@ -5,7 +5,7 @@
 ***
 Supported Languages: 
 > - Solidity
-> - Rust (ink, Cairo)
+> - Rust
 > - Vyper
 
 # <a name="Private"></a>Private audit, Testing, Development Profile

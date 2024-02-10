@@ -20,6 +20,7 @@ Supported Languages:
 
 | Audit Contest | Date            | Language | Rank | Results                                                                                                                        | Host         | 
 | ------------- | --------------- | -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| Alephzero     |  2024-February  | Ink      | 2st  | coming...                                                                                                                      | Hats.Finance |
 | Possum        |  2023-November  | Solidity | 1st  | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard) | Hats.Finance |
 | Convergence   |  2023-September | Solidity | 2st  | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard) | Hats.Finance |
 

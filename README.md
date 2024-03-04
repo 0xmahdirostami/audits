@@ -12,7 +12,8 @@ Supported Languages:
 
 | Name       | Date          | Language | Site                                    | Company                                   | Action                            | GitHub Link                                                                                     |
 | ---------- | ------------- | -------- | --------------------------------------- | ----------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------- |
-| HLP Adapter| 2024-January  | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Development and Testing(foundry)  | [Link](https://github.com/0xmahdirostami/Adapters)                                              |
+| Portals    | 2024-March    | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | coming...                                               |
+| HLP Adapter| 2024-January  | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Development and Testing(foundry)  | [Link](https://github.com/0xmahdirostami/Adapters)      |
 | Time Rift  | 2023-December | Solidity | [Link](https://timerift.possumlabs.io/) | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf) | 
 | HLP Portal | 2023-November | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)          | 
 
@@ -35,7 +36,20 @@ Supported Languages:
 
 ## H&M Findings
 
-> Total H&M in competitions: 18
+> Total H&M in competitions: 27
+
+- 2024-1-The Standard [:link:](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)(Codehawks)
+> - High-Unbounded pendingStakes could result in DOS in LiquidationPool
+> - Medium-Passing block.timestamp instead of deadline argument in SmartVaultV3::swap.
+> - Medium-Fees are hardcoded to 3000 in ExactInputSingleParams
+
+- 2024-01-curves [:link:](https://code4rena.com/audits/2024-01-curves#top)(Code4rena)
+> - High-Users Can Exploit Fee Rewards System by Repeatedly Depositing and Withdrawing Curve Tokens [:link:](https://github.com/code-423n4/2024-01-curves-findings/issues/642)
+> - High-FeeSplitter:setCurves lacks access control, allowing anyone to change curves [:link:](https://github.com/code-423n4/2024-01-curves-findings/issues/597)
+> - High-Potential Denial of Service (DoS) Vulnerability in `_transferFees`, Due to transferring fee to `curvesTokenSubject` and `referralFeeDestination` [:link:](https://github.com/code-423n4/2024-01-curves-findings/issues/527)
+> - Medium-User `userFeeOffset` Reset Without Adding to Unclaimed Fee Every Time User Buys or Sells Tokens [:link:](https://github.com/code-423n4/2024-01-curves-findings/issues/630)
+> - Medium-Remainder of ETH not returned to user in _buyCurvesToken [:link:](https://github.com/code-423n4/2024-01-curves-findings/issues/589)
+> - Medium-Protocol Fee and Referral Fee Stuck in Contract During Sell Operation [:link:](https://github.com/code-423n4/2024-01-curves-findings/issues/525)
 
 - 2023-12-revolutionprotocol [:link:](https://code4rena.com/audits/2023-12-revolution-protocol#top)(Code4rena)
 > - Medium-Potential Exploitable Behavior in AuctionHouse::_settleAuction[:link:](https://github.com/code-423n4/2023-12-revolutionprotocol-findings/issues/546)

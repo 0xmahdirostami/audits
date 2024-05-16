@@ -8,9 +8,12 @@ Supported Languages:
 > - Rust
 > - Vyper
 
-### Master of Computer Science (proficient in math).
-
-### More than 1 year of experience in auditing codebases with over 50 high and medium findings.
+## About: 
+- Smart contract security researcher
+- Passionate about crypto to enhance safety
+- Holds a Master of Computer Science (proficient in math)
+- Over 1 year of experience auditing codebases with over **50 high and medium findings**.
+<br>
 protocols that I worked on: asymmetry.finance, real wagmi, pooltogether, beedle, codeHawks escrow, Convergence finance, venus prime, zksync, Possum Labs, kelp dao, revolutionprotocol, curves, The Standard, Alephzero Common-amm, Alephzero Most-bridge
 
 

@@ -8,9 +8,9 @@ Supported Languages:
 > - Rust
 > - Vyper
 
-## Master of Computer Science (proficient in math).
+### Master of Computer Science (proficient in math).
 
-## More than 1 year of experience in auditing codebases with over 50 high and medium findings.
+### More than 1 year of experience in auditing codebases with over 50 high and medium findings.
 protocols that I worked on: asymmetry.finance, real wagmi, pooltogether, beedle, codeHawks escrow, Convergence finance, venus prime, zksync, Possum Labs, kelp dao, revolutionprotocol, curves, The Standard, Alephzero Common-amm, Alephzero Most-bridge
 
 

@@ -14,17 +14,17 @@ Supported Languages:
 - Holds a Master of Computer Science (proficient in math)
 - Over 1 year of experience auditing codebases with over **50 high and medium findings**.
 <br>
-protocols that I worked on: asymmetry.finance, real wagmi, pooltogether, beedle, codeHawks escrow, Convergence finance, venus prime, zksync, Possum Labs, kelp dao, revolutionprotocol, curves, The Standard, Alephzero Common-amm, Alephzero Most-bridge, ...
+protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether, beedle, codeHawks escrow, Convergence finance, venus prime, zksync, Possum Labs, kelp dao, revolutionprotocol, curves, The Standard, Alephzero Common-amm, Alephzero Most-bridge, ...
 
 
 # <a name="Private"></a>Private audit, Testing, Development Profile
 
 | Name       | Date          | Language | Site                                    | Company                                   | Action                            | GitHub Link                                                                                     |
 | ---------- | ------------- | -------- | --------------------------------------- | ----------------------------------------- | --------------------------------- | ------------------------------------------------------- |
-| Adapter    | 2025-May      | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | coming...                                               |
-| PortalsV2  | 2025-April    | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol)|
-| PortalsV2  | 2024-March    | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/PortalsV2/tree/main)|
-| HLP Adapter| 2024-January  | Solidity | coming...                               | [Possum lab](https://www.possumlabs.io/)  | Development and Testing(foundry)  | [Link](https://github.com/0xmahdirostami/Adapters)|
+| Adapter    | 2025-May      | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/Adapters)    |
+| PortalsV2  | 2025-April    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol)|
+| PortalsV2  | 2024-March    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/PortalsV2/tree/main)|
+| HLP Adapter| 2024-January  | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Development and Testing(foundry)  | [Link](https://github.com/0xmahdirostami/Adapters)|
 | Time Rift  | 2023-December | Solidity | [Link](https://timerift.possumlabs.io/) | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf)| 
 | HLP Portal | 2023-November | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)| 
 
@@ -39,7 +39,7 @@ protocols that I worked on: asymmetry.finance, real wagmi, pooltogether, beedle,
 
 # <a name="Top"></a>Judge and Lead auditor on HatsFinance
 
-| Audit Contest        | Date            | PDF report                                                                                                                              |
+| Audit Contest        | Date            | report                                                                                                                                  |
 | -------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------- | 
 | Kintsu               |  2024-May       | coming...                                                                                                                               |
 
@@ -52,5 +52,4 @@ protocols that I worked on: asymmetry.finance, real wagmi, pooltogether, beedle,
 | Codehawks     |  mahdirostami | [Link](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043) | 
 | Code4rena     |  mahdirostami | [Link](https://code4rena.com/@mahdirostami)                         | 
 | Sherlock      |  mahdirostami | [Link](https://audits.sherlock.xyz/watson/mahdiRostami)             |
-
 

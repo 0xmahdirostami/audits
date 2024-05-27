@@ -41,6 +41,7 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 
 | Audit Contest        | Date            | report                                                                                                                                  |
 | -------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------- | 
+| Inverter             |  2024-June      | coming...                                                                                                                               |
 | Kintsu               |  2024-May       | coming...                                                                                                                               |
 
 

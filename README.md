@@ -46,7 +46,7 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 | Audit Contest                                                                                                        | Date            | Language     | report                                                                              |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | ----------------------------------------------------------------------------------- | 
 | Inverter                                                                                                             |  2024-June      | Solidity     | coming...                                                                           |
-| [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)      |  2024-May       | Ink          | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Kintsu)     |
+| [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)      |  2024-May       | Ink          | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
 
 
 # <a name="Competition"></a>Competition Profile

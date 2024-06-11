@@ -30,7 +30,7 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 | Time Rift  | 2023-December | Solidity | [Link](https://timerift.possumlabs.io/) | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf)| 
 | HLP Portal | 2023-November | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)| 
 
-# <a name="Top"></a>Top public audits
+# <a name="Top"></a>Top in Competitions
 
 | Audit Contest        | Date            | Language     | Rank | Results                                                                                                                              | Host         | 
 | -------------------- | --------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |

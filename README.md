@@ -12,7 +12,9 @@ Supported Languages:
 - Holds a Master of Computer Science (proficient in math)
 - Over 1 year of experience auditing codebases with over **50 high and medium findings**.
 - Top in Hatsfinance all-time [leaderboard](https://app.hats.finance/leaderboard) (based on reward)
-- Top in 6 Competitions
+- Top in 6 Competitions in hatsfinance
+- two times Judge and lead auditor in hatsfinance
+
 
 <br>
 protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether, beedle, codeHawks escrow, Convergence finance, venus prime, zksync, Possum Labs, kelp dao, revolutionprotocol, curves, The Standard, Alephzero Common-amm, Alephzero Most-bridge, ...

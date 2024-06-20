@@ -21,15 +21,17 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 
 # <a name="Private"></a>Private audit, Testing, Development Profile
 
-| Name       | Date          | Language | Site                                    | Company                                   | Action                            | GitHub Link                                             |
-| ---------- | ------------- | -------- | --------------------------------------- | ----------------------------------------- | --------------------------------- | ------------------------------------------------------- |
-| Liquidityv2| 2024-June     | Solidity | [Link](https://www.liquity.org/)        | [Liquidity](https://www.liquity.org/)     | Gas saving                        | Private                                                 |
-| Adapter    | 2024-May      | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/Adapters)    |
-| PortalsV2  | 2024-April    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol)|
-| PortalsV2  | 2024-March    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/PortalsV2/tree/main)|
-| HLP Adapter| 2024-January  | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Development and Testing(foundry)  | [Link](https://github.com/PossumLabsCrypto/Adapters/tree/9135f35c2656ded97e61806fb1e8ac6704844838)|
-| Time Rift  | 2023-December | Solidity | [Link](https://timerift.possumlabs.io/) | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf)| 
-| HLP Portal | 2023-November | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)| 
+| Name        | Date          | Language | Site                                    | Company                                   | Action                            | GitHub Link                                             |
+| ----------- | ------------- | -------- | --------------------------------------- | ----------------------------------------- | --------------------------------- | ------------------------------------------------------- |
+| ArbitrageBot| 2024-June     | Python   | [Possum lab](https://www.possumlabs.io/)| [Possum lab](https://www.possumlabs.io/)  | Develop arbitrage BOT             | [Link](https://github.com/PossumLabsCrypto/Utilities/tree/master/arbitrage
+)|
+| Liquidityv2 | 2024-June     | Solidity | [Link](https://www.liquity.org/)        | [Liquidity](https://www.liquity.org/)     | Gas saving                        | Private                                                 |
+| Adapter     | 2024-May      | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/Adapters)    |
+| PortalsV2   | 2024-April    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol)|
+| PortalsV2   | 2024-March    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/PortalsV2/tree/main)|
+| HLP Adapter | 2024-January  | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Development and Testing(foundry)  | [Link](https://github.com/PossumLabsCrypto/Adapters/tree/9135f35c2656ded97e61806fb1e8ac6704844838)|
+| Time Rift   | 2023-December | Solidity | [Link](https://timerift.possumlabs.io/) | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf)| 
+| HLP Portal  | 2023-November | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)| 
 
 # <a name="Top"></a>Top in Competitions
 
@@ -58,9 +60,3 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 | Codehawks     |  mahdirostami | [Link](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043) | 
 | Code4rena     |  mahdirostami | [Link](https://code4rena.com/@mahdirostami)                         | 
 | Sherlock      |  mahdirostami | [Link](https://audits.sherlock.xyz/watson/mahdiRostami)             |
-
-
-# Off chain development
-
-- Python script for arbitrages for Possum labs:
-https://github.com/PossumLabsCrypto/Utilities/tree/master/arbitrage

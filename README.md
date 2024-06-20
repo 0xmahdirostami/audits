@@ -23,7 +23,7 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 
 | Name        | Date          | Language | Site                                    | Company                                   | Action                            | GitHub Link                                             |
 | ----------- | ------------- | -------- | --------------------------------------- | ----------------------------------------- | --------------------------------- | ------------------------------------------------------- |
-| ArbitrageBot| 2024-June     | Python   | No UI                                   | [Possum lab](https://www.possumlabs.io/)  | Develop arbitrage BOT             | [Link](https://github.com/PossumLabsCrypto/Utilities/tree/master/arbitrage)|
+| ArbitrageBot| 2024-June     | Python   | No UI                                   | [Possum lab](https://www.possumlabs.io/)  | Develope Arbitrage Bot            | [Link](https://github.com/PossumLabsCrypto/Utilities/tree/master/arbitrage)|
 | Liquidityv2 | 2024-June     | Solidity | [Link](https://www.liquity.org/)        | [Liquidity](https://www.liquity.org/)     | Gas saving                        | Private                                                 |
 | Adapter     | 2024-May      | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/Adapters)    |
 | PortalsV2   | 2024-April    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol)|

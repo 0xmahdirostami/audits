@@ -13,7 +13,7 @@ Supported Languages:
 - Over 1 year of experience auditing codebases with over **50 high and medium findings**.
 - Top in Hatsfinance all-time [leaderboard](https://app.hats.finance/leaderboard) (based on reward)
 - Top in 6 Competitions in hatsfinance
-- two times Judge and lead auditor in hatsfinance
+- Three times Judge and lead auditor in hatsfinance
 
 
 <br>
@@ -45,10 +45,11 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 
 # <a name="Top"></a>Judge and Lead auditor on HatsFinance
 
-| Audit Contest                                                                                                        | Date            | Language     | report                                                                              |
-| -------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | ----------------------------------------------------------------------------------- | 
-| Inverter                                                                                                             |  2024-June      | Solidity     | coming...                                                                           |
-| [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)      |  2024-May       | Ink          | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
+| Audit Contest                                                                                                                | Date            | Language     | report                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | ----------------------------------------------------------------------------------- | 
+| [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            |  2024-June      | Solidity     | coming...                                                                           |
+| [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  |  2024-June      | Solidity     | coming...                                                                           |
+| [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              |  2024-May       | Ink          | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
 
 
 # <a name="Profiles"></a>Profile

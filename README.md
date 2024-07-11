@@ -1,6 +1,6 @@
 # Mahdi Rostami's Portfolio
 ### I have availability for Priave Smart Contract Security Audits, Testing, and Development. 
-##### Reach out to me on [Twitter](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
+##### Reach out to me on [X](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
 
 ***
 Supported Languages: 

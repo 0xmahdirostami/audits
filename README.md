@@ -1,6 +1,6 @@
 # Mahdi Rostami's Portfolio
 ### I have availability for Priave Smart Contract Security Audits, Testing, and Development. 
-##### Reach out to me on [Twitter](https://twitter.com/0xmahdirostami) OR Rostamimahdi1997@gmail.com.
+##### Reach out to me on [Twitter](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
 
 ***
 Supported Languages: 
@@ -9,13 +9,13 @@ Supported Languages:
 > - Vyper
 
 ## About: 
-- Holds a Master of Computer Science (proficient in math)
-- Over 1 year of experience auditing codebases with over **50 high and medium findings**.
-- Top in HatsFinance all-time [leaderboard](https://app.hats.finance/leaderboard) (based on reward)
-- Top in 6 Competitions in HatsFinance
-- Four times Judge and lead auditor in HatsFinance
+- Holds a Master of Computer Science (proficient in math).
+- Over 1 year of experience auditing codebases.
+- Top in HatsFinance all-time [leaderboard](https://app.hats.finance/leaderboard). (based on reward)
+- Top in 6 Competitions in HatsFinance.
+- Four times Judge and lead auditor in HatsFinance.
 
-# <a name="Private"></a>Private Audit, Testing, and Development Profile
+# <a name="Private"></a>Private Audit, Testing, and Development
 
 | Date          | Company                                  | Name         | Language | Action                           | GitHub Link for Audit or Testing  | Report, Test or Code   |
 | ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |
@@ -41,17 +41,17 @@ Supported Languages:
 | Possum Hlp-adapter   |  2023-November  | Solidity           | 1st  | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)       | Hats.Finance |
 | Convergence          |  2023-September | Solidity           | 2st  | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)       | Hats.Finance |
 
-# <a name="Top"></a>Judge and Lead auditor on HatsFinance
+# <a name="Top"></a>Judge and Lead Auditor on HatsFinance
 
 | Audit Contest                                                                                                                | Date            | Language     | report                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | ----------------------------------------------------------------------------------- | 
-| [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       |  2024-July      | Solidity     | coming...                                                                           |
-| [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            |  2024-June      | Solidity     | coming...                                                                           |
-| [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  |  2024-June      | Solidity     | coming...                                                                           |
+| [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       |  2024-July      | Solidity     | Coming...                                                                           |
+| [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            |  2024-June      | Solidity     | Coming...                                                                           |
+| [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  |  2024-June      | Solidity     | Coming...                                                                           |
 | [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              |  2024-May       | Rust(Ink)    | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
 
 
-# <a name="Profiles"></a>Profile
+# <a name="Profiles"></a>Profiles
 
 | Host          | Profile Name  | Link                                                                |  
 | ------------- | ------------- | ------------------------------------------------------------------- |

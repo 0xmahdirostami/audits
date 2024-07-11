@@ -15,9 +15,9 @@ Supported Languages:
 - Top in 6 Competitions in HatsFinance
 - Four times Judge and lead auditor in HatsFinance
 
-# <a name="Private"></a>Private Audit, Testing, Development Profile
+# <a name="Private"></a>Private Audit, Testing, and Development Profile
 
-| Date          | Company                                  | Name         | Language | Action                           | GitHub Code For Audit Or Testing  | Report, Test or Code   |
+| Date          | Company                                  | Name         | Language | Action                           | GitHub Link for Audit or Testing  | Report, Test or Code   |
 | ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |
 | 2024-July     | [Possum lab](https://www.possumlabs.io/) | Core         | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Core/tree/main) | Coming |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | JS, HTML | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/HMTL_limit_order_executor) |

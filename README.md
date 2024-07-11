@@ -11,26 +11,24 @@ Supported Languages:
 ## About: 
 - Holds a Master of Computer Science (proficient in math)
 - Over 1 year of experience auditing codebases with over **50 high and medium findings**.
-- Top in Hatsfinance all-time [leaderboard](https://app.hats.finance/leaderboard) (based on reward)
-- Top in 6 Competitions in hatsfinance
-- Three times Judge and lead auditor in hatsfinance
-
-
-<br>
-protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether, beedle, codeHawks escrow, Convergence finance, venus prime, zksync, Possum Labs, kelp dao, revolutionprotocol, curves, The Standard, Alephzero Common-amm, Alephzero Most-bridge, ...
+- Top in HatsFinance all-time [leaderboard](https://app.hats.finance/leaderboard) (based on reward)
+- Top in 6 Competitions in HatsFinance
+- Four times Judge and lead auditor in HatsFinance
 
 # <a name="Private"></a>Private audit, Testing, Development Profile
 
-| Name        | Date          | Language | Site                                    | Company                                   | Action                            | GitHub Link                                             |
-| ----------- | ------------- | -------- | --------------------------------------- | ----------------------------------------- | --------------------------------- | ------------------------------------------------------- |
-| ArbitrageBot| 2024-June     | Python   | No UI                                   | [Possum lab](https://www.possumlabs.io/)  | Develope Arbitrage Bot            | [Link](https://github.com/PossumLabsCrypto/Utilities/tree/master/arbitrage)|
-| Liquidityv2 | 2024-June     | Solidity | [Link](https://www.liquity.org/)        | [Liquidity](https://www.liquity.org/)     | Gas saving                        | Private                                                 |
-| Adapter     | 2024-May      | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/Adapters)    |
-| PortalsV2   | 2024-April    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol)|
-| PortalsV2   | 2024-March    | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/PossumLabsCrypto/PortalsV2/tree/main)|
-| HLP Adapter | 2024-January  | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Development and Testing(foundry)  | [Link](https://github.com/PossumLabsCrypto/Adapters/tree/9135f35c2656ded97e61806fb1e8ac6704844838)|
-| Time Rift   | 2023-December | Solidity | [Link](https://timerift.possumlabs.io/) | [Possum lab](https://www.possumlabs.io/)  | Private Audit                     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf)| 
-| HLP Portal  | 2023-November | Solidity | [Link](https://portals.possumlabs.io/)  | [Possum lab](https://www.possumlabs.io/)  | Testing(foundry)                  | [Link](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol)| 
+| Date          | Company                                  | Name         | Language | Action                           | GitHub Code For Audit Or Testing  | Report, Test or Code  |
+| ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |
+| 2024-July     | [Possum lab](https://www.possumlabs.io/) | Core         | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Core/tree/main) | [Coming]() |
+| 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | JS, HTML | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/HMTL_limit_order_executor) |
+| 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | Python   | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/python_convertHelper_arbitrage) |
+| 2024-June     | [Liquidity](https://www.liquity.org/)    | Liquidityv2  | Solidity | Gas saving                       | Private | Private |
+| 2024-May      | [Possum lab](https://www.possumlabs.io/) | Adapters     | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Adapters) | Private | 
+| 2024-April    | [Possum lab](https://www.possumlabs.io/) | PortalsV2    | Solidity | Testing(foundry)                 | [Code](https://github.com/PossumLabsCrypto/PortalsV2/) | [Tests](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol) |
+| 2024-March    | [Possum lab](https://www.possumlabs.io/) | PortalsV2    | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/PortalsV2/)  | Private | 
+| 2024-January  | [Possum lab](https://www.possumlabs.io/) | Adapter      | Solidity | Development and Testing(foundry) | | [Repo](https://github.com/PossumLabsCrypto/Adapters/tree/9135f35c2656ded97e61806fb1e8ac6704844838) |
+| 2023-December | [Possum lab](https://www.possumlabs.io/) | Time Rift    | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/TimeRift) | [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/Time%20Rift/report.pdf) | 
+| 2023-November | [Possum lab](https://www.possumlabs.io/) | PortalsV1   | Solidity  | Testing(foundry)                 | [Code](https://github.com/PossumLabsCrypto/PortalsV1) | [Tests](https://github.com/PossumLabsCrypto/Portals/blob/main/test/V1/PortalUnit.t.sol) | 
 
 # <a name="Top"></a>Top in Competitions
 
@@ -47,6 +45,7 @@ protocols that I worked on: Kintsu, asymmetry.finance, real wagmi, pooltogether,
 
 | Audit Contest                                                                                                                | Date            | Language     | report                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | ----------------------------------------------------------------------------------- | 
+| [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       |  2024-July      | Solidity     | coming...                                                                           |
 | [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            |  2024-June      | Solidity     | coming...                                                                           |
 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  |  2024-June      | Solidity     | coming...                                                                           |
 | [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              |  2024-May       | Ink          | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |

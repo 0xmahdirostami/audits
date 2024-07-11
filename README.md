@@ -15,7 +15,7 @@ Supported Languages:
 - Top in 6 Competitions in HatsFinance
 - Four times Judge and lead auditor in HatsFinance
 
-# <a name="Private"></a>Private audit, Testing, Development Profile
+# <a name="Private"></a>Private Audit, Testing, Development Profile
 
 | Date          | Company                                  | Name         | Language | Action                           | GitHub Code For Audit Or Testing  | Report, Test or Code  |
 | ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |

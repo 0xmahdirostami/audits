@@ -22,7 +22,7 @@ Supported Languages:
 | 2024-July     | [Possum lab](https://www.possumlabs.io/) | Core         | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Core/tree/main) | Coming |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | JS, HTML | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/HMTL_limit_order_executor) |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | Python   | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/python_convertHelper_arbitrage) |
-| 2024-June     | [Liquidity](https://www.liquity.org/)    | Liquidityv2  | Solidity | Gas saving                       | Private | Private |
+| 2024-June     | [Liquidity](https://www.liquity.org/)    | Liquidityv2  | Solidity | Gas saving (host: HatsFinance)   | Private | Private |
 | 2024-May      | [Possum lab](https://www.possumlabs.io/) | Adapters     | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Adapters) | Private | 
 | 2024-April    | [Possum lab](https://www.possumlabs.io/) | PortalsV2    | Solidity | Testing(foundry)                 | [Code](https://github.com/PossumLabsCrypto/PortalsV2/) | [Tests](https://github.com/PossumLabsCrypto/PortalsV2/blob/main/test/PortalV2MultiAssetTest.t.sol) |
 | 2024-March    | [Possum lab](https://www.possumlabs.io/) | PortalsV2    | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/PortalsV2/)  | Private | 
@@ -32,14 +32,14 @@ Supported Languages:
 
 # <a name="Top"></a>Top in Competitions
 
-| Audit Contest        | Date            | Language     | Rank | Results                                                                                                                              | Host         | 
-| -------------------- | --------------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| Metrom               |  2024-June      | Solidty      | 1st  | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                    | Hats.Finance |
-| Kintsu               |  2024-June      | Ink          | 1st  | [Link](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)                    | Hats.Finance |
-| Alephzero Most       |  2024-April     | Ink, Solidty | 1st  | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)    | Hats.Finance |
-| Alephzero Common-amm |  2024-February  | Ink          | 2st  | [Link](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)              | Hats.Finance |
-| Possum Hlp-adapter   |  2023-November  | Solidity     | 1st  | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)       | Hats.Finance |
-| Convergence          |  2023-September | Solidity     | 2st  | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)       | Hats.Finance |
+| Audit Contest        | Date            | Language           | Rank | Results                                                                                                                              | Host         | 
+| -------------------- | --------------- | ------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| Metrom               |  2024-June      | Solidty            | 1st  | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                    | Hats.Finance |
+| Kintsu               |  2024-June      | Rust(Ink)          | 1st  | [Link](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)                    | Hats.Finance |
+| Alephzero Most       |  2024-April     | Rust(Ink), Solidty | 1st  | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)    | Hats.Finance |
+| Alephzero Common-amm |  2024-February  | Rust(Ink)          | 2st  | [Link](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)              | Hats.Finance |
+| Possum Hlp-adapter   |  2023-November  | Solidity           | 1st  | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)       | Hats.Finance |
+| Convergence          |  2023-September | Solidity           | 2st  | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)       | Hats.Finance |
 
 # <a name="Top"></a>Judge and Lead auditor on HatsFinance
 
@@ -48,7 +48,7 @@ Supported Languages:
 | [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       |  2024-July      | Solidity     | coming...                                                                           |
 | [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            |  2024-June      | Solidity     | coming...                                                                           |
 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  |  2024-June      | Solidity     | coming...                                                                           |
-| [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              |  2024-May       | Ink          | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
+| [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              |  2024-May       | Rust(Ink)    | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
 
 
 # <a name="Profiles"></a>Profile

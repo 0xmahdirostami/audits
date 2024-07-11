@@ -1,6 +1,6 @@
 # Mahdi Rostami's Portfolio
-### I have availability for Priave Smart Contract Security Audits, Testing, and Development. 
-##### Reach out to me on [X](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
+### I am available for Private Smart Contract Security Audits, Testing, and Development.
+##### Contact me at [X](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
 
 ***
 Supported Languages: 
@@ -9,11 +9,11 @@ Supported Languages:
 > - Vyper
 
 ## About: 
-- Holds a Master of Computer Science. (proficient in math)
-- Over 1 year of experience auditing codebases.
-- Top in HatsFinance all-time [leaderboard](https://app.hats.finance/leaderboard). (based on reward)
-- Top in 6 Competitions in HatsFinance.
-- Four times Judge and lead auditor in HatsFinance.
+- I have a Master of Computer Science degree and I am proficient in mathematics.
+- I have over 1 year of experience auditing codebases.
+- I am a top performer in the all-time leaderboard at HatsFinance based on rewards, You can find the leaderboard [here](https://app.hats.finance/leaderboard).
+- I have been at the top of the competitions leaderboard at HatsFinance multiple times.
+- I have also served as a judge and lead auditor in HatsFinance multiple times.
 
 # <a name="Private"></a>Private Audit, Testing, and Development
 

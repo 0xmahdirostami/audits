@@ -9,7 +9,7 @@ Supported Languages:
 > - Vyper
 
 ## About: 
-- Holds a Master of Computer Science (proficient in math).
+- Holds a Master of Computer Science. (proficient in math)
 - Over 1 year of experience auditing codebases.
 - Top in HatsFinance all-time [leaderboard](https://app.hats.finance/leaderboard). (based on reward)
 - Top in 6 Competitions in HatsFinance.

@@ -34,6 +34,7 @@ Supported Languages:
 
 | Audit Contest        | Date            | Language           | Rank | Results                                                                                                                              | Host         | 
 | -------------------- | --------------- | ------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| PalmeraDao           |  2024-August    | Solidty            | 1st  | coming                   | Hats.Finance |
 | Metrom               |  2024-June      | Solidty            | 1st  | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                    | Hats.Finance |
 | Kintsu               |  2024-June      | Rust(Ink)          | 1st  | [Link](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)                    | Hats.Finance |
 | Alephzero Most       |  2024-April     | Rust(Ink), Solidty | 1st  | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)    | Hats.Finance |

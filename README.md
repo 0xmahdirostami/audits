@@ -34,10 +34,10 @@ Supported Languages:
 
 | Audit Contest        | Date            | Language           | Rank | Results                                                                                                                              | Host         | 
 | -------------------- | --------------- | ------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| PalmeraDao           |  2024-August    | Solidty            | 1st  | coming                   | Hats.Finance |
-| Metrom               |  2024-June      | Solidty            | 1st  | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                    | Hats.Finance |
+| PalmeraDao           |  2024-August    | Solidity            | 1st  | coming                   | Hats.Finance |
+| Metrom               |  2024-June      | Solidity            | 1st  | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                    | Hats.Finance |
 | Kintsu               |  2024-June      | Rust(Ink)          | 1st  | [Link](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)                    | Hats.Finance |
-| Alephzero Most       |  2024-April     | Rust(Ink), Solidty | 1st  | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)    | Hats.Finance |
+| Alephzero Most       |  2024-April     | Rust(Ink), Solidity | 1st  | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)    | Hats.Finance |
 | Alephzero Common-amm |  2024-February  | Rust(Ink)          | 2st  | [Link](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)              | Hats.Finance |
 | Possum Hlp-adapter   |  2023-November  | Solidity           | 1st  | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)       | Hats.Finance |
 | Convergence          |  2023-September | Solidity           | 2st  | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)       | Hats.Finance |

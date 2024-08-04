@@ -34,6 +34,7 @@ Supported Languages:
 
 | Audit Contest        | Date            | Language            | Rank | Results                                                                                                                             | Host         | 
 | -------------------- | --------------- | ------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Inverter             |  2024-August    | Solidity            | 2st  | [link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
 | PalmeraDao           |  2024-August    | Solidity            | 1st  | [link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |
 | Metrom               |  2024-June      | Solidity            | 1st  | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                   | Hats.Finance |
 | Kintsu               |  2024-June      | Rust(Ink)           | 1st  | [Link](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)                   | Hats.Finance |

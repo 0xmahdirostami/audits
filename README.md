@@ -46,8 +46,9 @@ Supported Languages:
 # <a name="Top"></a>Judge and Lead Auditor on HatsFinance
 
 | Audit Contest                                                                                                                | Date            | Language     | report                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | ----------------------------------------------------------------------------------- | 
-| [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       |  2024-July      | Solidity     | Coming...                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | --------------------- | 
+| [MetromBackend](https://app.hats.finance/audit-competitions/metrom-backend-0xcc56dbbaf071398880fc86c1d93254c48397f22c/rewards) |  2024-August  | Rust         | Coming... |
+| [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       |  2024-July      | Solidity     | Coming... |
 | [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            |  2024-June      | Solidity     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/PalmeraDao)  |
 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  |  2024-June      | Solidity     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Inverter)    |
 | [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              |  2024-May       | Rust(Ink)    | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |

@@ -26,7 +26,7 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Date          | Company                                  | Name         | Language | Action                           | GitHub Link for Audit or Testing  | Report, Test or Code   |
 | ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |
-| 2024-Sep      | KeyperLabs AG | [palmeradao](https://www.palmeradao.xyz/) | Solidity | Private Audit                  | [Code](https://github.com/keyper-labs/PalmeraModule) | Coming... |
+| 2024-September| KeyperLabs AG | [palmeradao](https://www.palmeradao.xyz/) | Solidity | Private Audit                  | [Code](https://github.com/keyper-labs/PalmeraModule) | Coming... |
 | 2024-July     | [Possum lab](https://www.possumlabs.io/) | Core         | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Core/tree/main) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | JS, HTML | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/HMTL_limit_order_executor) |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | Python   | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/python_convertHelper_arbitrage) |
@@ -42,7 +42,7 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Audit Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Proof Of Humanity V2 |  2024-Sep       | Solidity            | -st | coming         | Hats.Finance |
+| Proof Of Humanity V2 |  2024-September | Solidity            | -st | Coming...         | Hats.Finance |
 | dappslap             |  2024-August    | Rust(Solana)        | 2st | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)         | Hats.Finance |
 | Inverter             |  2024-August    | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
 | PalmeraDao           |  2024-August    | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |
@@ -67,16 +67,17 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Audit Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ |
-| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | 2024-Sep | Solidity | Coming...   | Coming...         | Sherlock |
-| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | 2024-Sep | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks.Cyfrin |
+| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | 2024-September | Solidity | Coming...   | Coming...         | Sherlock |
+| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | 2024-September | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks.Cyfrin |
 
 
 
 # <a name="Profiles"></a>Profiles
 
-| Host          | Profile Name  | Link                                                                |  
-| ------------- | ------------- | ------------------------------------------------------------------- |
-| Hats.Finance  |  mahdirostami | [Link](https://app.hats.finance/profile/mahdirostami)               |
-| Codehawks     |  mahdirostami | [Link](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043) | 
-| Code4rena     |  mahdirostami | [Link](https://code4rena.com/@mahdirostami)                         | 
-| Sherlock      |  mahdirostami | [Link](https://audits.sherlock.xyz/watson/mahdiRostami)             |
+| Host          | Profile Name    | Link                                                                |  
+| ------------- | --------------- | ------------------------------------------------------------------- |
+| Hats.Finance  |  mahdirostami   | [Link](https://app.hats.finance/profile/mahdirostami)               |
+| Sherlock      |  mahdirostami   | [Link](https://audits.sherlock.xyz/watson/mahdiRostami)             |
+| Codehawks     |  mahdirostami   | [Link](https://www.codehawks.com/profile/clk52jmr9000el008w4z3a043) | 
+| Code4rena     |  mahdirostami   | [Link](https://code4rena.com/@mahdirostami)                         | 
+| Cantina       |  0xmahdirostami | [Link](https://cantina.xyz/u/0xATH)                                 |

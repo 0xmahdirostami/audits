@@ -65,10 +65,10 @@ Supported Languages: Solidity, Rust, Vyper
 
 # <a name="Team"></a>Teamworks
 
-| Audit Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | Teammate         | 
+| Audit Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | Teammate(Twitter)         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
-| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | 2024-September | Solidity | Coming...   | Coming...         | Sherlock | Yashar |
-| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | 2024-September | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks.Cyfrin | Matin |
+| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | 2024-September | Solidity | Coming...   | Coming...         | Sherlock | yashar0x |
+| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | 2024-September | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks.Cyfrin | MatinRezaii1 |
 
 
 

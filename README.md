@@ -42,7 +42,7 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Proof Of Humanity V2 |  2024-September | Solidity            | -st | Coming...         | Hats.Finance |
+| Proof Of Humanity V2 |  2024-September | Solidity            | 3st | Coming...         | Hats.Finance |
 | dappslap             |  2024-August    | Rust(Solana)        | 2st | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)         | Hats.Finance |
 | Inverter             |  2024-August    | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
 | PalmeraDao           |  2024-August    | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |

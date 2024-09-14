@@ -26,7 +26,7 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Date          | Company                                  | Name         | Language | Action                           | GitHub Link for Audit or Testing  | Report, Test or Code   |
 | ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |
-| 2024-Sep| KeyperLabs AG | [palmeradao](https://www.palmeradao.xyz/) | Solidity | Private Audit                  | [Code](https://github.com/keyper-labs/PalmeraModule) | Coming... |
+| 2024-September | KeyperLabs AG | [palmeradao](https://www.palmeradao.xyz/) | Solidity | Private Audit                  | [Code](https://github.com/keyper-labs/PalmeraModule) | Coming... |
 | 2024-July     | [Possum lab](https://www.possumlabs.io/) | Core         | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Core/tree/main) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | JS, HTML | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/HMTL_limit_order_executor) |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | Python   | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/python_convertHelper_arbitrage) |
@@ -42,7 +42,7 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Proof Of Humanity V2 |  2024-Sep | Solidity            | -st | Coming...         | Hats.Finance |
+| Proof Of Humanity V2 |  2024-September | Solidity            | -st | Coming...         | Hats.Finance |
 | dappslap             |  2024-August    | Rust(Solana)        | 2st | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)         | Hats.Finance |
 | Inverter             |  2024-August    | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
 | PalmeraDao           |  2024-August    | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |
@@ -51,7 +51,7 @@ Supported Languages: Solidity, Rust, Vyper
 | Alephzero Most       |  2024-April     | Rust(Ink), Solidity | 1st    | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)   | Hats.Finance |
 | Alephzero Common-amm |  2024-February  | Rust(Ink)           | 2st    | [Link](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)             | Hats.Finance |
 | Possum Hlp-adapter   |  2023-November  | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)      | Hats.Finance |
-| Convergence          |  2023-Sep | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)      | Hats.Finance |
+| Convergence          |  2023-September | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)      | Hats.Finance |
 
 # <a name="Top"></a>Judge and Lead Auditor on HatsFinance
 
@@ -65,10 +65,10 @@ Supported Languages: Solidity, Rust, Vyper
 
 # <a name="Team"></a>Teamworks
 
-| Contest                                                               | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | Teammate(Twitter)         | 
+| Contest      | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | Teammate(Twitter)         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
-| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) |   2024-Sep   | Solidity | Coming...   | Coming...         | Sherlock | yashar0x |
-| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) |   2024-Sep   | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | MatinRezaii1 |
+| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) |   2024-September   | Solidity | Coming...   | Coming...         | Sherlock | yashar0x |
+| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) |   2024-September   | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | MatinRezaii1 |
 
 
 

@@ -2,18 +2,25 @@
 ### I am available for Private Smart Contract Security Audits, Testing, and Development.
 ##### Contact me at [X](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
 
-***
-Supported Languages: 
-> - Solidity
-> - Rust
-> - Vyper
+
 
 ## About: 
-- I have a Master of Computer Science degree and I am proficient in mathematics.
-- I have over 1 year of experience auditing codebases.
-- I am a top performer in the all-time leaderboard at HatsFinance based on rewards, You can find the leaderboard [here](https://app.hats.finance/leaderboard).
-- I have been at the top of the competitions leaderboard at HatsFinance multiple times.
-- I have also served as a judge and lead auditor in HatsFinance multiple times.
+
+**I am a security researcher primarily focused on Web3 contracts with Solidity/Vyper/Rust codebases.**
+
+I graduated with a master's degree in Computer Science, specializing in machine learning and data science in 2023. My thesis focused on finding smart contract vulnerabilities with deep learning, which redirected my career path to web3 security.
+
+I have over a year of experience auditing codebases in Solidity, Rust, and Vyper. I've consistently ranked at the top of the HatsFinance [leaderboard](https://app.hats.finance/leaderboard) and have also served as a lead auditor and judge multiple times. In addition, I've conducted several private audits and testing.
+
+***
+Supported Languages: Solidity, Rust, Vyper
+
+
+- [Private Audit, Testing, and Development](#private-audit-testing-and-development)
+- [Top in Competitions](#top-in-competitions)
+- [Judge and Lead Auditor on HatsFinance](#judge-and-lead-auditor-on-hatsfinance)
+- [TeamWork](#teamwork)
+- [Profiles](#profiles)
 
 # <a name="Private"></a>Private Audit, Testing, and Development
 
@@ -61,7 +68,7 @@ Supported Languages:
 | Audit Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ |
 | [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | 2024-Sep | Solidity | Coming...   | Coming...         | Sherlock |
-| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | 2024-Sep | Solidity | 6st(1h-2m from 1h-4m) | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks.Cyfrin |
+| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | 2024-Sep | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks.Cyfrin |
 
 
 

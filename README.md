@@ -19,7 +19,7 @@ Supported Languages: Solidity, Rust, Vyper
 - [Private Audit, Testing, and Development](#private-audit-testing-and-development)
 - [Top in Competitions](#top-in-competitions)
 - [Judge and Lead Auditor on HatsFinance](#judge-and-lead-auditor-on-hatsfinance)
-- [TeamWork](#teamwork)
+- [TeamWorks](#teamworks)
 - [Profiles](#profiles)
 
 # <a name="Private"></a>Private Audit, Testing, and Development

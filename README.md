@@ -60,6 +60,7 @@ Supported Languages:
 
 | Audit Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ |
+| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | 2024-Sep | Solidity | Coming...   | Coming...         | Sherlock |
 | [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | 2024-Sep | Solidity | 6st(1h-2m from 1h-4m) | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks.Cyfrin |
 
 

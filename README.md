@@ -68,7 +68,7 @@ Supported Languages: Solidity, Rust, Vyper
 | Contest      | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | Teammate(Twitter)         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
 | [Winnables Raffles](https://audits.sherlock.xyz/contests/516) |   2024-September   | Solidity | Coming...   | Coming...         | Sherlock | yashar0x |
-| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) |   2024-September   | Solidity | 1h-2m from 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | MatinRezaii1 |
+| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) |   2024-September   | Solidity | 1h-2m out of 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | MatinRezaii1 |
 
 
 

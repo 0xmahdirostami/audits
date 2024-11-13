@@ -26,6 +26,7 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Date          | Company                                  | Name         | Language | Action                           | GitHub Link for Audit or Testing  | Report, Test or Code   |
 | ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |
+| 2024-November | [Possum lab](https://www.possumlabs.io/) | Passel Market | Solidity | Private Audit                  | [Code](https://github.com/PossumLabsCrypto/PasselMarket/tree/b213104e0fcab3735496b631f9f16385327ca645) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumPassel/report.pdf) |
 | 2024-September | KeyperLabs AG | [Palmeradao](https://www.palmeradao.xyz/) | Solidity | Private Audit                  | [Code](https://github.com/keyper-labs/PalmeraModule) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf) |
 | 2024-July     | [Possum lab](https://www.possumlabs.io/) | Core         | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Core/tree/main) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
 | 2024-June     | [Possum lab](https://www.possumlabs.io/) | ArbitrageBot | JS, HTML | Develope Arbitrage Bot           | | [Code](https://github.com/PossumLabsCrypto/Utilities/tree/master/bots/HMTL_limit_order_executor) |
@@ -40,11 +41,12 @@ Supported Languages: Solidity, Rust, Vyper
 
 # <a name="Top"></a>Top in Competitions
 
-| Contest        | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | 
-| -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Circles |  2024-September | Solidity            | 1st | Coming      | Hats.Finance |
-| Proof Of Humanity V2 |  2024-September | Solidity            | 3st | [Link](https://app.hats.finance/audit-competitions/proof-of-humanity-v2-0xef0709445d394a22704850c772a28a863bb780b0/leaderboard)      | Hats.Finance |
-| dappslap             |  2024-August    | Rust(Solana)        | 2st | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)         | Hats.Finance |
+| Contest              | Date            | Language            | Result | Leaderboard                                                                                                                         | Host         | 
+| -------------------- | --------------- | ------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Seer-pm              |  2024-October   | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/seer-pm-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/leaderboard)                  | Hats.Finance |
+| Circles              |  2024-September | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/circles-0x6ca9ca24d78af44582951825bef9eadcb210e5cf/leaderboard)                  | Hats.Finance |
+| Proof Of Humanity V2 |  2024-September | Solidity            | 3st    | [Link](https://app.hats.finance/audit-competitions/proof-of-humanity-v2-0xef0709445d394a22704850c772a28a863bb780b0/leaderboard)     | Hats.Finance |
+| Dappslap             |  2024-August    | Rust(Solana)        | 2st    | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)                 | Hats.Finance |
 | Inverter             |  2024-August    | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
 | PalmeraDao           |  2024-August    | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |
 | Metrom               |  2024-June      | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                   | Hats.Finance |
@@ -68,6 +70,7 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Contest      | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | Teammate(Twitter)         | 
 | -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
+| [Starknet Staking](https://codehawks.cyfrin.io/c/2024-09-starknet-staking) |   2024-September   | Cairo | private  | [Link](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | blackpanter |
 | [Winnables Raffles](https://audits.sherlock.xyz/contests/516) |   2024-September   | Solidity | 3h-2m out of 3h-5m  | [Link](https://audits.sherlock.xyz/contests/516?filter=questions)         | Sherlock | yashar0x |
 | [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) |   2024-September   | Solidity | 1h-2m out of 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | MatinRezaii1 |
 

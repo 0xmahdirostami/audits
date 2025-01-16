@@ -15,12 +15,20 @@ I have over a year of experience auditing codebases in Solidity, Rust, and Vyper
 ***
 Supported Languages: Solidity, Rust, Vyper
 
-
+- [Pashov Audit Group](#pashov-audit-group)
 - [Private Audit, Testing, and Development](#private-audit-testing-and-development)
 - [Top in Competitions](#top-in-competitions)
 - [Judge and Lead Auditor on HatsFinance](#judge-and-lead-auditor-on-hatsfinance)
 - [TeamWorks](#teamworks)
 - [Profiles](#profiles)
+
+
+
+# <a name="Pashov"></a>Pashov Audit Group
+
+| Date     | Project                                           | Language     | report                                                                 |
+| -------- | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
+| 2025-Jan |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | Not reported yet |
 
 # <a name="Private"></a>Private Audit, Testing, and Development
 

@@ -49,38 +49,40 @@ Supported Languages: Solidity, Rust, Vyper
 
 # <a name="Top"></a>Top in Competitions
 
-| Contest              | Date            | Language            | Result | Leaderboard                                                                                                                         | Host         | 
-| -------------------- | --------------- | ------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Seer-pm              |  2024-October   | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/seer-pm-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/leaderboard)                  | Hats.Finance |
-| Circles              |  2024-September | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/circles-0x6ca9ca24d78af44582951825bef9eadcb210e5cf/leaderboard)                  | Hats.Finance |
-| Proof Of Humanity V2 |  2024-September | Solidity            | 3st    | [Link](https://app.hats.finance/audit-competitions/proof-of-humanity-v2-0xef0709445d394a22704850c772a28a863bb780b0/leaderboard)     | Hats.Finance |
-| Dappslap             |  2024-August    | Rust(Solana)        | 2st    | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)                 | Hats.Finance |
-| Inverter             |  2024-August    | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
-| PalmeraDao           |  2024-August    | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |
-| Metrom               |  2024-June      | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                   | Hats.Finance |
-| Kintsu               |  2024-June      | Rust(Ink)           | 1st    | [Link](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)                   | Hats.Finance |
-| Alephzero Most       |  2024-April     | Rust(Ink), Solidity | 1st    | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)   | Hats.Finance |
-| Alephzero Common-amm |  2024-February  | Rust(Ink)           | 2st    | [Link](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)             | Hats.Finance |
-| Possum Hlp-adapter   |  2023-November  | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)      | Hats.Finance |
-| Convergence          |  2023-September | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)      | Hats.Finance |
+| Date           | Contest              | Language            | Result | Leaderboard                                                                                                                         | Host         | 
+| -------------- | -------------------- | ------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 2024-October   | Seer-pm              | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/seer-pm-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/leaderboard)                  | Hats.Finance |
+| 2024-September | Circles              | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/circles-0x6ca9ca24d78af44582951825bef9eadcb210e5cf/leaderboard)                  | Hats.Finance |
+| 2024-September | Proof Of Humanity V2 | Solidity            | 3st    | [Link](https://app.hats.finance/audit-competitions/proof-of-humanity-v2-0xef0709445d394a22704850c772a28a863bb780b0/leaderboard)     | Hats.Finance |
+| 2024-August    | Dappslap             | Rust(Solana)        | 2st    | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)                 | Hats.Finance |
+| 2024-August    | Inverter             | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
+| 2024-August    | PalmeraDao           | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |
+| 2024-June      | Metrom               | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                   | Hats.Finance |
+| 2024-June      | Kintsu               | Rust(Ink)           | 1st    | [Link](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)                   | Hats.Finance |
+| 2024-April     | Alephzero Most       | Rust(Ink), Solidity | 1st    | [Link](https://app.hats.finance/audit-competitions/most-aleph-zero-bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/leaderboard)   | Hats.Finance |
+| 2024-February  | Alephzero Common-amm | Rust(Ink)           | 2st    | [Link](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)             | Hats.Finance |
+| 2023-November  | Possum Hlp-adapter   | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)      | Hats.Finance |
+| 2023-September | Convergence          | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)      | Hats.Finance |
 
 # <a name="Top"></a>Judge and Lead Auditor on HatsFinance
 
-| Audit Contest                                                                                                                | Date            | Language     | report                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | --------------------- | 
-| [MetromBackend](https://app.hats.finance/audit-competitions/metrom-backend-0xcc56dbbaf071398880fc86c1d93254c48397f22c/rewards) |  2024-August  | Rust         | [Link](https://github.com/hats-finance/Metrom-backend-0xcc56dbbaf071398880fc86c1d93254c48397f22c/blob/develop/report.md) |
-| [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       |  2024-July      | Solidity     | [Link](https://github.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/blob/main/report.md) |
-| [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            |  2024-June      | Solidity     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/PalmeraDao)  |
-| [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  |  2024-June      | Solidity     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Inverter)    |
-| [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              |  2024-May       | Rust(Ink)    | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
+| Date            | Contest                                                                                                                      | Language     | report                |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------- | 
+| 2024-August  | [MetromBackend](https://app.hats.finance/audit-competitions/metrom-backend-0xcc56dbbaf071398880fc86c1d93254c48397f22c/rewards) | Rust         | [Link](https://github.com/hats-finance/Metrom-backend-0xcc56dbbaf071398880fc86c1d93254c48397f22c/blob/develop/report.md) |
+| 2024-July      | [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                       | Solidity     | [Link](https://github.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/blob/main/report.md) |
+| 2024-June      | [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards)            | Solidity     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/PalmeraDao)  |
+| 2024-June      | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)  | Solidity     | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Inverter)    |
+| 2024-May       | [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)              | Rust(Ink)    | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)      |
 
 # <a name="Team"></a>Teamworks
 
-| Contest      | Date            | Language            | Result   | Leaderboard                                                                                                 | Host         | Teammate(Twitter)         | 
-| -------------------- | --------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ | -------------- |
-| [Starknet Staking](https://codehawks.cyfrin.io/c/2024-09-starknet-staking) |   2024-September   | Cairo | private, 6 on leaderboard  | [Link](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | thepantherplus |
-| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) |   2024-September   | Solidity | 3h-2m out of 3h-5m  | [Link](https://audits.sherlock.xyz/contests/516?filter=questions)         | Sherlock | yashar0x |
-| [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) |   2024-September   | Solidity | 1h-2m out of 1h-4m | [Link](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | MatinRezaii1 |
+| Date           | Contest      | Language            | Result  | Leaderboard                                                                                            | Host         | Teammate(Twitter)  | 
+| -------------- | ------------ | ------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------ | ------------------ |
+| 2024-September | [Starknet Staking](https://codehawks.cyfrin.io/c/2024-09-starknet-staking) | Cairo | private, 6 on leaderboard  | [Link](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)         | Codehawks | thepantherplus |
+| 2024-September | [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | Solidity | 3h-2m out of 3h-5m  | [Link](https://audits.sherlock.xyz/contests/516?filter=questions)         | Sherlock | yashar0x |
+| 2024-September | [fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | Solidity | 1h-2m out of 1h-4m | [Link][def]         | Codehawks | MatinRezaii1 |
+
+[def]: https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard
 
 
 

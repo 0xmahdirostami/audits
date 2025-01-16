@@ -26,9 +26,9 @@ Supported Languages: Solidity, Rust, Vyper
 
 # <a name="Pashov"></a>Pashov Audit Group
 
-| Date     | Project                                           | Language     | report                                                                 |
-| -------- | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
-| 2025-Jan |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | Not reported yet |
+| Date         | Project                                           | Language     | report                                                                 |
+| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
+| 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | Not reported yet |
 
 # <a name="Private"></a>Private Audit, Testing, and Development
 

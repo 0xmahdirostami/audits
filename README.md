@@ -16,6 +16,7 @@ I have over a year of experience auditing codebases in Solidity, Rust, and Vyper
 Supported Languages: Solidity, Rust, Vyper
 
 - [Pashov Audit Group](#pashov-audit-group)
+- [Guvenkaya Sec](#guvenkaya-sec)
 - [Private Audit, Testing, and Development](#private-audit-testing-and-development)
 - [Top in Competitions](#top-in-competitions)
 - [Judge and Lead Auditor on HatsFinance](#judge-and-lead-auditor-on-hatsfinance)
@@ -30,10 +31,17 @@ Supported Languages: Solidity, Rust, Vyper
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
 | 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | Not reported yet |
 
+# <a name="Guvenkaya"></a>Guvenkaya Sec
+
+| Date         | Project                                           | Language     | report                                                                 |
+| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
+| 2025-January |  Couldn't reveal yet | Rust(Solana)     | Not reported yet |
+
 # <a name="Private"></a>Private Audit, Testing, and Development
 
 | Date          | Company                                  | Name         | Language | Action                           | GitHub Link for Audit or Testing  | Report, Test or Code   |
 | ------------- | ---------------------------------------- | ------------ | -------- | -------------------------------- | --------------------------------- | ---------------------- |
+| 2025-January | [Possum lab](https://www.possumlabs.io/) | Cyber Cash | Solidity | Private Audit                  | [Code](https://github.com/PossumLabsCrypto/CyberCash/e54d093bb7b67173921c844428dd4020dde7b26a) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/Cybercash/report.pdf) |
 | 2024-November | [Possum lab](https://www.possumlabs.io/) | Passel Market | Solidity | Private Audit                  | [Code](https://github.com/PossumLabsCrypto/PasselMarket/tree/b213104e0fcab3735496b631f9f16385327ca645) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumPassel/report.pdf) |
 | 2024-September | KeyperLabs AG | [Palmeradao](https://www.palmeradao.xyz/) | Solidity | Private Audit                  | [Code](https://github.com/keyper-labs/PalmeraModule) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf) |
 | 2024-July     | [Possum lab](https://www.possumlabs.io/) | Core         | Solidity | Private Audit                    | [Code](https://github.com/PossumLabsCrypto/Core/tree/main) | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |

@@ -29,8 +29,9 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
+| 2025-February |  Couldn't reveal yet | Rust(Solana)     | Not reported yet |
+| 2025-January |  Couldn't reveal yet | Solidity     | Not reported yet |
 | 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | Not reported yet |
-| 2025-February |  Couldn't reveal yet | Solidity     | Not reported yet |
 
 # <a name="Guvenkaya"></a>Guvenkaya Sec
 

@@ -29,14 +29,17 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
-| 2025-February |  Private yet | Rust(Solana)     | Not reported yet |
+| 2025-March |  Private yet | Vyper     | Not reported yet |
+| 2025-March |  Private yet | Rust(Solana)     | Not reported yet |
+| 2025-February |  PumpDotFun | Rust(Solana)     | Not reported yet |
 | 2025-January |  Private yet | Solidity     | Not reported yet |
 | 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | Not reported yet |
 
 # <a name="Guvenkaya"></a>Guvenkaya Sec
 
 | Date         | Project                                           | Language     | report                                                                 |
-| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
+| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
+| 2025-March |  Private yet | Rust(Solana)     | Not reported yet |
 | 2025-January |  Private yet | Rust(Solana)     | Not reported yet |
 
 # <a name="Private"></a>Private Audit, Testing, and Development

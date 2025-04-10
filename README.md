@@ -16,6 +16,7 @@ I have over a year of experience auditing codebases in Solidity, Rust, and Vyper
 Supported Languages: Solidity, Rust, Vyper
 
 - [Pashov Audit Group](#pashov-audit-group)
+- [Accretion Labs](#accretion-abs)
 - [Guvenkaya Sec](#guvenkaya-sec)
 - [Private Audit, Testing, and Development](#private-audit-testing-and-development)
 - [Top in Competitions](#top-in-competitions)
@@ -30,17 +31,23 @@ Supported Languages: Solidity, Rust, Vyper
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
 | 2025-March |  Private yet | Vyper     | Not reported yet |
-| 2025-March |  Private yet | Rust(Solana)     | Not reported yet |
-| 2025-February |  PumpDotFun | Rust(Solana)     | Not reported yet |
+| 2025-March |  Private yet | Rust(Solana, Anchor)     | Not reported yet |
+| 2025-February |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
 | 2025-January |  Private yet | Solidity     | Not reported yet |
 | 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | Not reported yet |
+
+# <a name="Accretion"></a>Accretion Labs
+
+| Date         | Project                                           | Language     | report                                                                 |
+| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
+| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
 
 # <a name="Guvenkaya"></a>Guvenkaya Sec
 
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
-| 2025-March |  Private yet | Rust(Solana)     | Not reported yet |
-| 2025-January |  Private yet | Rust(Solana)     | Not reported yet |
+| 2025-March |  Private yet | Rust(Solana, Anchor)    | Not reported yet |
+| 2025-January |  Private yet | Rust(Solana, Anchor)   | Not reported yet |
 
 # <a name="Private"></a>Private Audit, Testing, and Development
 
@@ -67,7 +74,7 @@ Supported Languages: Solidity, Rust, Vyper
 | 2024-October   | Seer-pm              | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/seer-pm-0x899bc13919880db76edf4ccd72bdfa5dfa666fb7/leaderboard)                  | Hats.Finance |
 | 2024-September | Circles              | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/circles-0x6ca9ca24d78af44582951825bef9eadcb210e5cf/leaderboard)                  | Hats.Finance |
 | 2024-September | Proof Of Humanity V2 | Solidity            | 3st    | [Link](https://app.hats.finance/audit-competitions/proof-of-humanity-v2-0xef0709445d394a22704850c772a28a863bb780b0/leaderboard)     | Hats.Finance |
-| 2024-August    | Dappslap             | Rust(Solana)        | 2st    | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)                 | Hats.Finance |
+| 2024-August    | Dappslap             | Rust(Solana, Anchor)| 2st    | [Link](https://app.hats.finance/audit-competitions/dappslap-0x714ab4fe6afdfeb750f54cf1d4bae32cc60b5f31/leaderboard)                 | Hats.Finance |
 | 2024-August    | Inverter             | Solidity            | 2st    | [Link](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)         | Hats.Finance |
 | 2024-August    | PalmeraDao           | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)                  | Hats.Finance |
 | 2024-June      | Metrom               | Solidity            | 1st    | [Link](https://app.hats.finance/audit-competitions/metrom-0xfdfc6d4ac5807d7460da20a3a1c0c84ef2b9c5a2/leaderboard)                   | Hats.Finance |

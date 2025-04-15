@@ -41,6 +41,7 @@ Supported Languages: Solidity, Rust, Vyper
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
 | 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
+| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
 
 # <a name="Guvenkaya"></a>Guvenkaya Sec
 

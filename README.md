@@ -30,10 +30,10 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
-| 2025-May |  Pump | Rust(Solana, Anchor)     | Not reported yet |
+| 2025-May |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
 | 2025-May |  Private yet | Solidity     | Not reported yet |
 | 2025-March |  Curve | Vyper     | Not reported yet |
-| 2025-March |  Pump | Rust(Solana, Anchor)     | Not reported yet |
+| 2025-March |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
 | 2025-February |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
 | 2025-January |  Burve | Solidity     | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf) |
 | 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | [Report](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf) |

@@ -30,8 +30,9 @@ Supported Languages: Solidity, Rust, Vyper
 
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
-| 2025-May |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
 | 2025-May |  Private yet | Solidity     | Not reported yet |
+| 2025-May |  PumpDotFun | Rust(Solana, Anchor) diff-audit    | Not reported yet |
+| 2025-April |  bob-airdrop | Solidity diff-audit    | Not reported yet |
 | 2025-March |  Curve | Vyper     | Not reported yet |
 | 2025-March |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
 | 2025-February |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |

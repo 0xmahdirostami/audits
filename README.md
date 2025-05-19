@@ -1,8 +1,8 @@
 # Mahdi Rostami's Portfolio
-### I am available for Private Smart Contract Security Audits, Testing, and Development.
-##### Contact me at [X](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
+> I am available for Private Smart Contract Security Audits, Testing, and Development.<br>
+> Contact me at [X](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
 
-
+#### Current position: Full-time Solana auditor at [Accretion.xyz](https://x.com/accretion_xyz)
 
 ## About: 
 
@@ -15,8 +15,8 @@ I have over a year of experience auditing codebases in Solidity, Rust, and Vyper
 ***
 Supported Languages: Solidity, Rust, Vyper
 
+- [Accretion Labs](#accretion-labs)
 - [Pashov Audit Group](#pashov-audit-group)
-- [Accretion Labs](#accretion-abs)
 - [Guvenkaya Sec](#guvenkaya-sec)
 - [Private Audit, Testing, and Development](#private-audit-testing-and-development)
 - [Top in Competitions](#top-in-competitions)
@@ -25,12 +25,21 @@ Supported Languages: Solidity, Rust, Vyper
 - [Profiles](#profiles)
 
 
+# <a name="Accretion"></a>Accretion Labs
+
+| Date         | Project                                           | Language     | report                                                                 |
+| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
+| 2025-May |  Private yet | Rust(Solana, Native)     | Not reported yet |
+| 2025-May |  Private yet | Rust(Solana, Native)     | Not reported yet |
+| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
+| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
+
 
 # <a name="Pashov"></a>Pashov Audit Group
 
 | Date         | Project                                           | Language     | report                                                                 |
 | ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
-| 2025-May |  Private yet | Solidity     | Not reported yet |
+| 2025-May |  Zipper | Solidity     | Not reported yet |
 | 2025-May |  PumpDotFun | Rust(Solana, Anchor) diff-audit    | Not reported yet |
 | 2025-April |  bob-airdrop | Solidity diff-audit    | Not reported yet |
 | 2025-March |  Curve | Vyper     | Not reported yet |
@@ -39,12 +48,6 @@ Supported Languages: Solidity, Rust, Vyper
 | 2025-January |  Burve | Solidity     | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf) |
 | 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | [Report](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf) |
 
-# <a name="Accretion"></a>Accretion Labs
-
-| Date         | Project                                           | Language     | report                                                                 |
-| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
-| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
-| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
 
 # <a name="Guvenkaya"></a>Guvenkaya Sec
 

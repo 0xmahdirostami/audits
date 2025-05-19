@@ -2,8 +2,6 @@
 > I am available for Private Smart Contract Security Audits, Testing, and Development.<br>
 > Contact me at [X](https://twitter.com/0xmahdirostami) or Rostamimahdi1997@gmail.com.
 
-**Current position: Full-time Solana auditor at [Accretion.xyz](https://x.com/accretion_xyz)**
-
 ## About: 
 
 I am a security researcher primarily focused on Web3 contracts with Solana/Solidity/Vyper/Rust codebases.

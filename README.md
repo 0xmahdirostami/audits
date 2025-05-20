@@ -10,6 +10,7 @@ In 2023, I graduated with a master's degree in Computer Science, specializing in
 
 I have over a year of experience auditing codebases in Solidity, Rust, and Vyper. I've consistently ranked at the top of the HatsFinance [leaderboard](https://app.hats.finance/leaderboard) and have served as a lead auditor and judge multiple times. In addition, I've conducted several private audits and testing.
 
+Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since May 2025.
 ## Audits:
 - [Accretion Labs](#accretion-labs)
 - [Pashov Audit Group](#pashov-audit-group)

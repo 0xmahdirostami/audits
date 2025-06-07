@@ -24,34 +24,35 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 # <a name="Accretion"></a>Accretion Labs
 
-| Date         | Project                                           | Language     | report                                                                 |
-| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
-| 2025-May |  Private yet | Rust(Solana, Native)     | Not reported yet |
-| 2025-May |  Private yet | Rust(Solana, Native)     | Not reported yet |
-| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
-| 2025-April |  Private yet | Rust(Solana, Native)     | Not reported yet |
+| Date         | Project                                           | Language                        | report                                                                 |
+| ------------ | ------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------- |
+| 2025-June    |  Private yet                                      | Rust(Solana, Anchor) diff-audit | Not reported yet                                                       |
+| 2025-May     |  Private yet                                      | Rust(Solana, pinocchio)         | Not reported yet                                                       |
+| 2025-May     |  Private yet                                      | Rust(Solana, Native) diff-audit | Not reported yet                                                       |  
+| 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Not reported yet                                                       |
+| 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Not reported yet                                                       |
 
 
 # <a name="Pashov"></a>Pashov Audit Group
 
-| Date         | Project                                           | Language     | report                                                                 |
-| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- | 
-| 2025-May |  Zipper | Solidity     | Not reported yet |
-| 2025-May |  PumpDotFun | Rust(Solana, Anchor) diff-audit    | Not reported yet |
-| 2025-April |  bob-airdrop | Solidity diff-audit    | Not reported yet |
-| 2025-March |  Curve | Vyper     | Not reported yet |
-| 2025-March |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
-| 2025-February |  PumpDotFun | Rust(Solana, Anchor)     | Not reported yet |
-| 2025-January |  Burve | Solidity     | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf) |
-| 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity     | [Report](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf) |
+| Date         | Project                                           | Language                        | report                                                                                                      |
+| ------------ | ------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------- | 
+| 2025-May     |  Zipper                                           | Solidity                        | Not reported yet                                                                                            |
+| 2025-May     |  PumpDotFun                                       | Rust(Solana, Anchor) diff-audit | Not reported yet                                                                                            |
+| 2025-April   |  bob-airdrop                                      | Solidity diff-audit             | Not reported yet                                                                                            |
+| 2025-March   |  Curve                                            | Vyper                           | Not reported yet                                                                                            |
+| 2025-March   |  PumpDotFun                                       | Rust(Solana, Anchor)            | Not reported yet                                                                                            |
+| 2025-February|  PumpDotFun                                       | Rust(Solana, Anchor)            | Not reported yet                                                                                            |
+| 2025-January |  Burve                                            | Solidity                        | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf)        |
+| 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity                        | [Report](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf)|
 
 
 # <a name="Guvenkaya"></a>Guvenkaya Sec
 
-| Date         | Project                                           | Language     | report                                                                 |
-| ------------ | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------- |
-| 2025-March |  Private yet | Rust(Solana, Anchor)    | Not reported yet |
-| 2025-January |  Private yet | Rust(Solana, Anchor)   | Not reported yet |
+| Date         | Project                                           | Language              | report                                                                 |
+| ------------ | ------------------------------------------------- | --------------------- | ---------------------------------------------------------------------- |
+| 2025-March   |  Private yet                                      | Rust(Solana, Anchor)  | Not reported yet                                                       |
+| 2025-January |  Private yet                                      | Rust(Solana, Anchor)  | Not reported yet                                                       |
 
 # <a name="Private"></a>Private Audit, Testing, and Development
 

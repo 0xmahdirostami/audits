@@ -28,7 +28,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 | ------------ | ------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------- |
 | 2025-June    |  Private yet                                      | Rust(Solana, Anchor) diff-audit | Not reported yet                                                       |
 | 2025-May     |  Private yet                                      | Rust(Solana, pinocchio)         | Not reported yet                                                       |
-| 2025-May     |  Private yet                                      | Rust(Solana, Native) diff-audit | Not reported yet                                                       |  
+| 2025-May     |  RealmsDao                                        | Rust(Solana, Native) diff-audit | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-realms-versioned-transactions-audit-A25REA1.pdf) |  
 | 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Not reported yet                                                       |
 | 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Not reported yet                                                       |
 

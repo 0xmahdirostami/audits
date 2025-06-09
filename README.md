@@ -1,4 +1,3 @@
-# Mahdi Rostami's Portfolio
 > I am available for Private Smart Contract Security Audits, Testing, and Development.<br>
 > Contact me at [X](https://twitter.com/0xmahdirostami), [Telegram](https://t.me/mahdiaudit), or Rostamimahdi1997@gmail.com.
 

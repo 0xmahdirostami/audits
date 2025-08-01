@@ -62,8 +62,8 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 | Date         | Project     | Language             | Report           |
 | ------------ | ----------- | -------------------- | ---------------- |
-| 2025-March   | Private yet | Rust(Solana, Anchor) | Not reported yet |
-| 2025-January | Private yet | Rust(Solana, Anchor) | Not reported yet |
+| 2025-March   | Sugar       | Rust(Solana, Anchor) | Not reported yet |
+| 2025-January | Cook        | Rust(Solana, Anchor) | Not reported yet |
 
 # <a name="Private"></a>Private Audit, Testing, and Development
 

@@ -11,6 +11,7 @@ I have over a year of experience auditing codebases in Solidity, Rust, and Vyper
 
 Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since May 2025.
 ## Audits:
+- [blog-posts](#blog-posts)
 - [Accretion Labs](#accretion-labs)
 - [Pashov Audit Group](#pashov-audit-group)
 - [Guvenkaya Sec](#guvenkaya-sec)
@@ -21,20 +22,26 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 - [Profiles](#profiles)
 
 
+# <a name="blog-posts"></a>blog-posts
+
+| Title | Link |
+| ----- | ---- |
+| Compressed Nfts Solana | [Link](https://accretion.xyz/blog/compressed-nfts-solana) |
+
 # <a name="Accretion"></a>Accretion Labs
 
-| Date       | Project     | Language                        | report                                                                                                                            |
+| Date       | Project     | Language                        | Report                                                                                                                            |
 | ---------- | ----------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 2025-July  |  Private yet| Rust(Solana, Library)           | Not reported yet                                                                                                                  |
-| 2025-July  | Private yet | Rust(Solana, Native) diff-audit | Not reported yet |
-| 2025-July  | Private yet | Rust(Solana, Native) diff-audit | Not reported yet |
+| 2025-July  | Metaplex | Rust(Solana, Native) diff-audit | Not reported yet |
+| 2025-July  | Metaplex | Rust(Solana, Native) diff-audit | Not reported yet |
 | 2025-July  |  Private yet| Rust(Solana, Anchor)            | Not reported yet                                                                                                                  |
 | 2025-June  |  Private yet| Rust(Solana, Anchor)            | Not reported yet                                                                                                                  |
 | 2025-June  | Private yet | Rust(Solana, Anchor) diff-audit | Not reported yet                                                                                                                  |
 | 2025-May   | Swig wallet | Rust(Solana, pinocchio)         | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-anagram-swig-audit-A25ANA2.pdf)                  |
 | 2025-May   | RealmsDao   | Rust(Solana, Native) diff-audit | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-realms-versioned-transactions-audit-A25REA1.pdf) |
-| 2025-April | Private yet | Rust(Solana, Native)            | Not reported yet                                                                                                                  |
-| 2025-April | Private yet | Rust(Solana, Native)            | Not reported yet                                                                                                                  |
+| 2025-April | Metaplex | Rust(Solana, Native)            | Not reported yet                                                                                                                  |
+| 2025-April | Metaplex | Rust(Solana, Native)            | Not reported yet                                                                                                                  |
 
 
 # <a name="Pashov"></a>Pashov Audit Group
@@ -53,7 +60,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 # <a name="Guvenkaya"></a>Guvenkaya Sec
 
-| Date         | Project     | Language             | report           |
+| Date         | Project     | Language             | Report           |
 | ------------ | ----------- | -------------------- | ---------------- |
 | 2025-March   | Private yet | Rust(Solana, Anchor) | Not reported yet |
 | 2025-January | Private yet | Rust(Solana, Anchor) | Not reported yet |
@@ -96,7 +103,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 # <a name="Top"></a>Judge and Lead Auditor on HatsFinance
 
-| Date        | Contest                                                                                                                        | Language  | report                                                                                                                   |
+| Date        | Contest                                                                                                                        | Language  | Report                                                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------ |
 | 2024-August | [MetromBackend](https://app.hats.finance/audit-competitions/metrom-backend-0xcc56dbbaf071398880fc86c1d93254c48397f22c/rewards) | Rust      | [Link](https://github.com/hats-finance/Metrom-backend-0xcc56dbbaf071398880fc86c1d93254c48397f22c/blob/develop/report.md) |
 | 2024-July   | [Fenix](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/)                         | Solidity  | [Link](https://github.com/hats-finance/Fenix--0x9d7765a7ebd5b6322a30797a44a5428531970d3d/blob/main/report.md)            |

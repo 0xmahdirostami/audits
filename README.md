@@ -22,7 +22,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 - [Profiles](#profiles)
 
 
-# <a name="blog-posts"></a>blog-posts
+# <a name="blog-posts"></a>Blog Posts
 
 | Title | Link |
 | ----- | ---- |

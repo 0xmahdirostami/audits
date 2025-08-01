@@ -48,7 +48,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 | Date          | Project                                          | Language                        | report                                                                                                       |
 | ------------- | ------------------------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 2025-May      | Zipper                                           | Solidity                        | Not reported yet                                                                                             |
+| 2025-May      | Zipper                                           | Solidity                        | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Zipper-security-review_2025-05-05.pdf)        |
 | 2025-May      | PumpDotFun                                       | Rust(Solana, Anchor) diff-audit | Not reported yet                                                                                             |
 | 2025-April    | bob-airdrop                                      | Solidity diff-audit             | Not reported yet                                                                                             |
 | 2025-March    | Curve                                            | Vyper                           | Not reported yet                                                                                             |

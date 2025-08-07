@@ -32,6 +32,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 | Date       | Project     | Language                        | Report                                                                                                                            |
 | ---------- | ----------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-August|  Private yet| Rust(Solana, pinocchio)           | Not reported yet                                                                                                                  |
 | 2025-July  |  Private yet| Rust(Solana, Library)           | Not reported yet                                                                                                                  |
 | 2025-July  | Metaplex | Rust(Solana, Native) diff-audit | Not reported yet |
 | 2025-July  | Metaplex | Rust(Solana, Native) diff-audit | Not reported yet |

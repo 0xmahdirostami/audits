@@ -37,7 +37,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 | 2025-July  | Metaplex | Rust(Solana, Native) diff-audit | Not reported yet |
 | 2025-July  | Metaplex | Rust(Solana, Native) diff-audit | Not reported yet |
 | 2025-July  |  Private yet| Rust(Solana, Anchor)            | Not reported yet                                                                                                                  |
-| 2025-June  |  Private yet| Rust(Solana, Anchor)            | Not reported yet                                                                                                                  |
+| 2025-June  |  PrivacyCash| Rust(Solana, Anchor)            | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-privacy-cash-audit-A25PRC1.pdf)                 |
 | 2025-June  | Private yet | Rust(Solana, Anchor) diff-audit | Not reported yet                                                                                                                  |
 | 2025-May   | Swig wallet | Rust(Solana, pinocchio)         | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-anagram-swig-audit-A25ANA2.pdf)                  |
 | 2025-May   | RealmsDao   | Rust(Solana, Native) diff-audit | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-realms-versioned-transactions-audit-A25REA1.pdf) |

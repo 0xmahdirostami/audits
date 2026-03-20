@@ -30,7 +30,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 # <a name="Accretion"></a>Accretion Labs
 
-Full-time Solana auditor since May 2025. Check the reports [https://github.com/accretion-xyz/audit-reports](https://github.com/accretion-xyz/audit-reports).
+Full-time Solana auditor since May 2025, check the reports [https://github.com/accretion-xyz/audit-reports](https://github.com/accretion-xyz/audit-reports).
 
 # <a name="Pashov"></a>Pashov Audit Group
 

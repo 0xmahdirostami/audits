@@ -7,9 +7,10 @@ I am a security researcher primarily focused on Web3 contracts with Solana/Solid
 
 In 2023, I graduated with a master's degree in Computer Science, specializing in machine learning and data science. My thesis focused on finding smart contract vulnerabilities with deep learning, which redirected my career path to web3 security.
 
-I have over two years of experience auditing codebases in Solidity, Rust, and Vyper. I've consistently ranked at the top of the HatsFinance [leaderboard](https://app.hats.finance/leaderboard) and have served as a lead auditor and judge multiple times. In addition, I've conducted several private audits and testing.
+Security researcher specializing in blockchain smart contracts since 2023, with experience auditing Solidity, Rust, and Vyper codebases. I've consistently ranked at the top of the HatsFinance [leaderboard](https://app.hats.finance/leaderboard) and have served as a lead auditor and judge multiple times. In addition, I've conducted several private audits and testing.
 
 Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since May 2025.
+
 ## Audits:
 - [blog-posts](#blog-posts)
 - [Accretion Labs](#accretion-labs)

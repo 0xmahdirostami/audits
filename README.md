@@ -10,8 +10,11 @@ Security researcher specializing in blockchain smart contracts since 2023, with 
 
 Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since May 2025.
 
+## Content
+- [Talks](#talks)
+- [Blog-posts](#blog-posts)
+
 ## Audits:
-- [blog-posts](#blog-posts)
 - [Accretion Labs](#accretion-labs)
 - [Pashov Audit Group](#pashov-audit-group)
 - [Guvenkaya Sec](#guvenkaya-sec)
@@ -21,6 +24,11 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 - [Teamworks](#teamworks)
 - [Profiles](#profiles)
 
+# <a name="talks"></a>Talks
+
+| Title | Link |
+| ----- | ---- |
+| Guest lecture for Rektoff bootcamp "Know the Solana, find the bugs" | [Link](https://x.com/rektoff_xyz/status/2085331920993304703?s=20) |
 
 # <a name="blog-posts"></a>Blog Posts
 

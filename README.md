@@ -24,23 +24,23 @@ Full-time senior Solana auditor at [Accretion Labs](https://x.com/accretion_xyz)
 - [Teamworks](#teamworks)
 - [Profiles](#profiles)
 
-# <a name="talks"></a>Talks
+### <a name="talks"></a>Talks
 
 | Title | Link |
 | ----- | ---- |
 | Guest lecture for Rektoff bootcamp "Know the Solana, find the bugs" | [Link](https://x.com/rektoff_xyz/status/2085331920993304703?s=20) |
 
-# <a name="blog-posts"></a>Blog Posts
+### <a name="blog-posts"></a>Blog Posts
 
 | Title | Link |
 | ----- | ---- |
 | Compressed Nfts Solana | [Link](https://accretion.xyz/blog/compressed-nfts-solana) |
 
-# <a name="Accretion"></a>Accretion Labs
+### <a name="Accretion"></a>Accretion Labs
 
 Full-time senior Solana auditor since May 2025, check the reports [https://github.com/accretion-xyz/audit-reports](https://github.com/accretion-xyz/audit-reports).
 
-# <a name="Pashov"></a>Pashov Audit Group
+### <a name="Pashov"></a>Pashov Audit Group
 
 | Date          | Project                                          | Language                        | report                                                                                                       |
 | ------------- | ------------------------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -54,14 +54,14 @@ Full-time senior Solana auditor since May 2025, check the reports [https://githu
 | 2025-January  | [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity                        | [Report](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf) |
 
 
-# <a name="Guvenkaya"></a>Guvenkaya Sec
+### <a name="Guvenkaya"></a>Guvenkaya Sec
 
 | Date         | Project     | Language             | Report           |
 | ------------ | ----------- | -------------------- | ---------------- |
 | 2025-March   | Private yet | Rust(Solana, Anchor) | Not reported yet |
 | 2025-January | Private yet | Rust(Solana, Anchor) | Not reported yet |
 
-# <a name="Private"></a>Private Audit, Testing, and Development
+### <a name="Private"></a>Private Audit, Testing, and Development
 
 | Date           | Company                                  | Name                                      | Language | Action                           | GitHub Link for Audit or Testing                                                                       | Report, Test or Code                                                                                  |
 | -------------- | ---------------------------------------- | ----------------------------------------- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
@@ -97,7 +97,7 @@ Full-time senior Solana auditor since May 2025, check the reports [https://githu
 | 2023-November  | Possum Hlp-adapter   | Solidity             | 1st    | [Link](https://app.hats.finance/audit-competitions/possum-labs-portals-0xed8965d49b8aeca763447d56e6da7f4e0506b2d3/leaderboard)    | Hats.Finance |
 | 2023-September | Convergence          | Solidity             | 2st    | [Link](https://app.hats.finance/audit-competitions/convergence-finance-0x0e410e7af8e70fc5bffcdbfbdf1673ee7b3d0777/leaderboard)    | Hats.Finance |
 
-# <a name="Top"></a>Judge and Lead Auditor on HatsFinance
+### <a name="Top"></a>Judge and Lead Auditor on HatsFinance
 
 | Date        | Contest                                                                                                                        | Language  | Report                                                                                                                   |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -107,7 +107,7 @@ Full-time senior Solana auditor since May 2025, check the reports [https://githu
 | 2024-June   | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards)    | Solidity  | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Inverter)                                         |
 | 2024-May    | [Kintsu](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/rewards)                | Rust(Ink) | [Link](https://github.com/0xmahdirostami/audits/tree/main/Lead-reports/Kintsu)                                           |
 
-# <a name="Team"></a>Teamworks
+### <a name="Team"></a>Teamworks
 
 | Date           | Contest                                                                    | Language | Result                    | Leaderboard                                                                                                                | Host      | Teammate(Twitter) |
 | -------------- | -------------------------------------------------------------------------- | -------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------- |
@@ -119,7 +119,7 @@ Full-time senior Solana auditor since May 2025, check the reports [https://githu
 
 
 
-# <a name="Profiles"></a>Profiles
+### <a name="Profiles"></a>Profiles
 
 | Host         | Profile Name   | Link                                                                |
 | ------------ | -------------- | ------------------------------------------------------------------- |

@@ -8,7 +8,7 @@ In 2023, I graduated with a master's degree in Computer Science, specializing in
 
 Security researcher specializing in blockchain smart contracts since 2023, with experience auditing Solidity, Rust, and Vyper codebases. I've consistently ranked at the top of the HatsFinance [leaderboard](https://app.hats.finance/leaderboard) and have served as a lead auditor and judge multiple times. In addition, I've conducted several private audits and testing.
 
-Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since May 2025.
+Full-time senior Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since May 2025.
 
 ## Content
 - [Talks](#talks)
@@ -38,7 +38,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 # <a name="Accretion"></a>Accretion Labs
 
-Full-time Solana auditor since May 2025, check the reports [https://github.com/accretion-xyz/audit-reports](https://github.com/accretion-xyz/audit-reports).
+Full-time senior Solana auditor since May 2025, check the reports [https://github.com/accretion-xyz/audit-reports](https://github.com/accretion-xyz/audit-reports).
 
 # <a name="Pashov"></a>Pashov Audit Group
 

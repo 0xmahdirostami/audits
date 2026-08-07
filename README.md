@@ -12,7 +12,7 @@ Full-time Solana auditor at [Accretion Labs](https://x.com/accretion_xyz) since 
 
 ## Content
 - [Talks](#talks)
-- [Blog-posts](#blog-posts)
+- [Blog Posts](#blog-posts)
 
 ## Audits:
 - [Accretion Labs](#accretion-labs)

@@ -41,8 +41,9 @@ Full-time senior Solana auditor at [Accretion Labs](https://x.com/accretion_xyz)
 
 | Title | Link |
 | ----- | ---- |
-| Valid Signature, Wrong Signer: A Solana Authorization Trap | [Link](https://x.com/0xmahdirostami/status/2108186500764512561?s=20) |
 | The AI wrote the comment. Did the developer agree with it? | [Link](https://x.com/0xmahdirostami/status/2108608598309789708?s=20) |
+| Valid Signature, Wrong Signer: A Solana Authorization Trap | [Link](https://x.com/0xmahdirostami/status/2108186500764512561?s=20) |
+
 
 ### <a name="Accretion"></a>Accretion Labs
 

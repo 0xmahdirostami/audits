@@ -29,7 +29,8 @@ Full-time senior Solana auditor at [Accretion Labs](https://x.com/accretion_xyz)
 
 | Title | Link |
 | ----- | ---- |
-| Guest lecture for Rektoff bootcamp "Know the Solana, find the bugs" | [Link](https://x.com/rektoff_xyz/status/2085331920993304703?s=20) |
+| Guest lecture for Rektoff bootcamp Cohort 6 "Know the Solana, find the bugs" | Soon |
+| Guest lecture for Rektoff bootcamp Cohort 5 "Know the Solana, find the bugs" | [Link](https://x.com/rektoff_xyz/status/2085331920993304703?s=20) |
 
 ### <a name="blog-posts"></a>Blog Posts
 
